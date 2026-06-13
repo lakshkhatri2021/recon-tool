@@ -1,0 +1,3378 @@
+
+Starting recon on tesla.com...
+
+[+] Running subfinder...
+o2.ptr556.tesla.com
+hermes-ap.eng.vn.cloud.tesla.com
+dns2.akamai-apigateway-charging-ownership.tesla.com
+inference.bottlerocket.tesla.com
+prometheus.apigateway-logging.tesla.com
+smtp.extsentry.tesla.com
+na.logs.tesla.com
+click.device-api.prd.na.vn.cloud.tesla.com
+mail.assistant-api.prd.euw1.vn.cloud.tesla.com
+www.cloud.tesla.com
+raw.github.tesla.com
+github-fw.tesla.com
+bom01-gpgw1.tesla.com
+mail1.digitalassets.tesla.com
+ns3.akamai-apigateway-vfx.tesla.com
+docker.github-ap.tesla.com
+prd.nav.vn.cloud.tesla.com
+track.epc.tesla.com
+nuget.github-ap.tesla.com
+b.energy.ams17.tcs.tesla.com
+npuapt-prd.usw.vn.cloud.tesla.com
+shop.hermes-api.prd.na.vn.cloud.tesla.com
+upload.apigateway-logging.tesla.com
+fleetview.prd.eu.fn.tesla.com
+alpha.apigateway-message-center-ownership.tesla.com
+eu.vn.cloud.tesla.com
+gem-api.eng.vn.cloud.tesla.com
+api.location-services-prd.tesla.com
+imap.cua-help-me-charge-ui.tesla.com
+keycloak-tesla-int.us-west-2-eng-it.k8s.tesla.com
+robotaxi-app-feedback-prd.tesla.com
+demo.cloud.tesla.com
+teslacmgus01.tesla.com
+triton-server-stg.tesla.com
+tvs-uat.tesla.com
+cryptopay.tesla.com
+click.apigateway-message-center-ownership.tesla.com
+fleetview.prd.usw.fn.tesla.com
+ci.hermes-stream-api.prd.na.vn.cloud.tesla.com
+digitalassets-contents.tesla.com
+gitlab.epuca-prd.euw1.vn.cloud.tesla.com
+akamai-apigateway-vfx.tesla.com
+gitlab.epc.tesla.com
+npu.prd.nav.vn.cloud.tesla.com
+webmail.euw1.vn.cloud.tesla.com
+maven.github-fw.tesla.com
+cnvpn1.tesla.com
+internal.apigateway-charging-bff.tesla.com
+npm.extgithub.tesla.com
+rubygems.github-fw.tesla.com
+fleet-streaming-api.eng.vn.cloud.tesla.com
+apacvpn2.tesla.com
+api.apmv3-cdn-go.tesla.com
+aws.akamai-apigateway-charging-ownership.tesla.com
+logs.tesla.com
+ui.b.smf11.tcs.tesla.com
+account.device-api.prd.na.vn.cloud.tesla.com
+assistant-api.prd.euw1.vn.cloud.tesla.com
+reply.github-fw.tesla.com
+s3.a.smf13.tcs.tesla.com
+admin.eu.vn.cloud.tesla.com
+app.akamai-apigateway-charging-ownership.tesla.com
+cradlepointtest01.tesla.com
+mta3.emails.tesla.com
+ns2.location-services-prd.tesla.com
+pop.akamai-apigateway-suppliers.tesla.com
+upload.digitalassets.tesla.com
+vpn3.tesla.com
+app.epuca-prd.euw1.vn.cloud.tesla.com
+extsentry.tesla.com
+img.hcaptcha.tesla.com
+inference-staging.bottlerocket.tesla.com
+dev.device-api.prd.na.vn.cloud.tesla.com
+gateway.apf-api.prd.vn.cloud.tesla.com
+img.digitalassets-accounts.tesla.com
+mobile.tesla.com
+s3-sidekick-ssl.github.tesla.com
+origin-assets-contactus.tesla.com
+eng.america.vn.cloud.tesla.com
+storage.cloud.tesla.com
+staging.bottlerocket.tesla.com
+dns2.device-api.prd.na.vn.cloud.tesla.com
+exp-zcp-cloud-eu-itmfg-staging.tesla.com
+internal.akamai-apigateway-charging-ownership.tesla.com
+epc.tesla.com
+grafana.energy.obs.tesla.com
+smtp.device-api.prd.eu.vn.cloud.tesla.com
+static.tesla.com
+static-assets-teslaaccount.tesla.com
+bettertime.tesla.com
+cua-help-me-charge-ui.tesla.com
+blog.hermes-stream-api.prd.na.vn.cloud.tesla.com
+internal.epuca-prd.usw.vn.cloud.tesla.com
+codeload.extgithub.tesla.com
+issue-trackerapi.tesla.com
+wire.tesla.com
+apacvpn.tesla.com
+ir.bottlerocket.tesla.com
+cdn.akamai-apigateway-suppliers.tesla.com
+media.device-api.prd.eu.vn.cloud.tesla.com
+ns2.assistant-api.prd.na.vn.cloud.tesla.com
+humans.tesla.com
+ops.na.vn.cloud.tesla.com
+akamai-apigateway-charging-ownership.tesla.com
+public.apigateway-charging-bff.tesla.com
+notebooks.github.tesla.com
+prd.usw.vn.cloud.tesla.com
+api.digitalassets-shop.tesla.com
+dex.ops.na.vn.cloud.tesla.com
+pop.energy.obs.tesla.com
+stats.eu.vn.cloud.tesla.com
+tx.tesla.com
+v2.digitalassets-accounts.tesla.com
+fleetview.prd.usw2.fn.tesla.com
+dev.cloud.tesla.com
+dns1.cua-help-me-charge-ui.tesla.com
+help.cloud.tesla.com
+media-server-dev-api.eng.vn.cloud.tesla.com
+apigateway-pricing-gateway.tesla.com
+ug.tesla.com
+auth-global.tesla.com
+autodiscover.tesla.com
+referral.tesla.com
+notebooks.github-ap.tesla.com
+my.akamai-apigateway-vfx.tesla.com
+shop.epc.tesla.com
+dashcam.tesla.com
+cdn.assistant-api.prd.na.vn.cloud.tesla.com
+forum.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+maven.github.tesla.com
+prd.usw2.vn.cloud.tesla.com
+assets.digitalcontent.tesla.com
+status.hermes-stream-api.prd.na.vn.cloud.tesla.com
+webmail.auth.tesla.com
+tvs-api-stg.tesla.com
+prod.apigateway-logging.tesla.com
+b.energy.vast.tcs.tesla.com
+click.apigateway-charging-bff.tesla.com
+fleetview.prd.europe.fn.tesla.com
+help.akamai-apigateway-charging-ownership.tesla.com
+login.link.tesla.com
+serviceapp.tesla.com
+store.link.tesla.com
+vn.cloud.tesla.com
+gist.github.tesla.com
+chat.cua-help-me-choose-ui.tesla.com
+go.apigateway-logging.tesla.com
+tesla-inc-docsys-eorg.tesla.com
+ro.github-ap.tesla.com
+npm.github-fw.tesla.com
+teslacmgna01.tesla.com
+digitalassets-shop.tesla.com
+digitalcontent.tesla.com
+vpn.hermes-ap.prd.vn.cloud.tesla.com
+edr-eu.tesla.com
+cdn.epuca-prd.usw.vn.cloud.tesla.com
+edge.akamai-apigateway-suppliers.tesla.com
+internal.cloud.tesla.com
+v1.akamai-apigateway-vfx.tesla.com
+ww1.hermes-stream-api.prd.na.vn.cloud.tesla.com
+media.github-ap.tesla.com
+epuca-prd.usw2.vn.cloud.tesla.com
+u003ebilling.tesla.com
+energylibrary.tesla.com
+digitalassets-energy.tesla.com
+api-kronos-dev.tesla.com
+citiapipgpprodv6.tesla.com
+bn.na.vn.cloud.tesla.com
+click.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+issue-tracker.tesla.com
+npuv-prd.euw1.vn.cloud.tesla.com
+private.apigateway-charging-bff.tesla.com
+notebooks.github-fw.tesla.com
+payment-dlocal-prod.tesla.com
+gfb.vdi.tesla.com
+ownership.tesla.com
+my.assistant-api.prd.na.vn.cloud.tesla.com
+ns2.digitalcontent.tesla.com
+preview.analytics-relay.tesla.com
+assets.github.tesla.com
+autodiscover.hermes-ap.prd.vn.cloud.tesla.com
+staging.location-services-prd.tesla.com
+test.cua-chat-ui.tesla.com
+track.cloud.tesla.com
+reply.github-it.tesla.com
+chat-staging.bottlerocket.tesla.com
+device-api.prd.eu.vn.cloud.tesla.com
+dns1.cua-chat-ui.tesla.com
+dns.device-api.prd.na.vn.cloud.tesla.com
+v1.digitalassets-accounts.tesla.com
+ww1.digitalassets.tesla.com
+cua-test-drive-ui.tesla.com
+fleet-api.prd.na.vn.cloud.tesla.com
+monitoring-eu.tesla.com
+assets.extgithub.tesla.com
+viewscreen.extgithub.tesla.com
+live-data.prd.eu.fn.tesla.com
+db.hermes-api.prd.eu.vn.cloud.tesla.com
+staging.digitalassets-shop.tesla.com
+citiapisshprodv6.tesla.com
+dpuas-prd.euw1.vn.cloud.tesla.com
+autoconfig.hermes-api.prd.eu.vn.cloud.tesla.com
+image-emails.tesla.com
+logcollector-ext.tesla.com
+analytics.epuca-prd.euw1.vn.cloud.tesla.com
+grafana.extsentry.tesla.com
+u003evn.tesla.com
+media-server-qr-dev.eng.america.vn.cloud.tesla.com
+media.github-it.tesla.com
+acs2-poc.voice.tesla.com
+app.cua-chat-ui.tesla.com
+sandbox.epc.tesla.com
+epcapi.tesla.com
+assets.github-ap.tesla.com
+cdn-design.tesla.com
+fleet-api.prd.eu.vn.cloud.tesla.com
+kronosdb-dev.tesla.com
+static.auth.tesla.com
+v3.akamai-apigateway-charging-ownership.tesla.com
+a.energy.vast.tcs.tesla.com
+gf.tesla.com
+location-services-prd.tesla.com
+ptr2.tesla.com
+cn.tesla.com
+digitalassets-accounts.tesla.com
+dns.cua-help-me-choose-ui.tesla.com
+stream.hermes-api.prd.na.vn.cloud.tesla.com
+cx-api-apac-stg.tesla.com
+cxadmin-api-apac-stg.tesla.com
+docker.github-it.tesla.com
+data.hermes-api.prd.eu.vn.cloud.tesla.com
+docs.digitalassets.tesla.com
+krndevdb.tesla.com
+sc-cppm.tesla.com
+codeload.github-fw.tesla.com
+auth.eng.usw.vn.cloud.tesla.com
+vpn1.tesla.com
+x3-prod.obs.tesla.com
+test.epuca-prd.euw1.vn.cloud.tesla.com
+live.apigateway-pricing-gateway.tesla.com
+us-west-2-eng-maps.k8s.tesla.com
+account.analytics-relay.tesla.com
+epuca-prd.euw1.vn.cloud.tesla.com
+api.kronos.tesla.com
+public.apigateway-pricing-gateway.tesla.com
+assistant-api.prd.na.vn.cloud.tesla.com
+cxadmin-apac.tesla.com
+mta.emails.tesla.com
+vehicle-files.prd.euw1.vn.cloud.tesla.com
+ns1.epuca-prd.euw1.vn.cloud.tesla.com
+suppliers.tesla.com
+live-data.prd.america.fn.tesla.com
+s3.a.vast-dr.tcs.tesla.com
+citiapipgpprodv7.tesla.com
+files.hermes-stream-api.prd.na.vn.cloud.tesla.com
+diner-api.tesla.com
+gist.github-ap.tesla.com
+docs.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+mail.digitalassets-shop.tesla.com
+mx.fleet-music-prd.tesla.com
+teslacdpna05.tesla.com
+prd.euw1.vn.cloud.tesla.com
+account.eu.vn.cloud.tesla.com
+marketing.tesla.com
+npuv-prd.usw.vn.cloud.tesla.com
+thisistest.tesla.com
+mail.apigateway-charging-bff.tesla.com
+signaling-robotics.eng.usw.vn.cloud.tesla.com
+wiki.hcaptcha.tesla.com
+link.tesla.com
+mfg.tesla.com
+admin.digitalassets.tesla.com
+gcp.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+media-server-qr.prd.america.vn.cloud.tesla.com
+ownerapi-api.prd.usw.vn.cloud.tesla.com
+maven.extgithub.tesla.com
+nuget.extgithub.tesla.com
+api-toolbox.tesla.com
+assets.dpuas-prd.usw.vn.cloud.tesla.com
+ns1.apf-api.prd.vn.cloud.tesla.com
+assistant-api.prd.usw2.vn.cloud.tesla.com
+prod.cua-help-me-choose-ui.tesla.com
+charging-transparency.tesla.com
+cxadmin-api-apac.tesla.com
+rubygems.github-it.tesla.com
+s3.a.smf12.tcs.tesla.com
+autodiscover.epuca-prd.euw1.vn.cloud.tesla.com
+db.fleet-music-prd.tesla.com
+hermes-api.prd.na.vn.cloud.tesla.com
+pages.github-ap.tesla.com
+external.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+inference.tesla.com
+nema1450.tesla.com
+cloud.dpuas-prd.usw.vn.cloud.tesla.com
+mfamobile-dev.tesla.com
+m.location-services-prd.tesla.com
+wdm-kronos-dev.tesla.com
+assets-ir.tesla.com
+bottlerocket.tesla.com
+teslacdpna04.tesla.com
+viewscreen.github-ap.tesla.com
+CitiApiSslProdv5.tesla.com
+apf-api.prd.vn.cloud.tesla.com
+v3.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+inference-eu-staging.bottlerocket.tesla.com
+beta.digitalcontent.tesla.com
+euw1.vn.cloud.tesla.com
+owa.akamai-apigateway-suppliers.tesla.com
+ads.cua-chat-ui.tesla.com
+inference-eu.bottlerocket.tesla.com
+digitalassets-stage.tesla.com
+doraemon-svc-apac.tesla.com
+mx.epuca-prd.euw1.vn.cloud.tesla.com
+dhc.tesla.com
+containers.extgithub.tesla.com
+analytics-relay.tesla.com
+hub.epc.tesla.com
+int.akamai-apigateway-charging-ownership.tesla.com
+owa.device-api.prd.na.vn.cloud.tesla.com
+vehicle-files.eng.euw1.vn.cloud.tesla.com
+frontend-tesla-int.us-west-2-eng-it.k8s.tesla.com
+digitalassets-secure.tesla.com
+events.tesla.com
+help.fleet-music-prd.tesla.com
+login.device-api.prd.na.vn.cloud.tesla.com
+teslacdpna03.tesla.com
+s3.a.vast.tcs.tesla.com
+ns4.analytics-relay.tesla.com
+toolbox-beta.tesla.com
+accounts.tesla.com
+monitor.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+chat.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+k8s.apigateway-message-center-ownership.tesla.com
+na.vn.cloud.tesla.com
+akamai-apigateway-suppliers.tesla.com
+ui.c.smf11.tcs.tesla.com
+viewscreen.github.tesla.com
+mytcore-inventory-assests.tesla.com
+analytics.akamai-apigateway-suppliers.tesla.com
+robotaxi-app-feedback-eng.tesla.com
+triton-management.tesla.com
+npuv-prd.usw2.vn.cloud.tesla.com
+kubernetes.device-api.prd.eu.vn.cloud.tesla.com
+usw.vn.cloud.tesla.com
+darkfield.tesla.com
+forum.energy.obs.tesla.com
+go.akamai-apigateway-suppliers.tesla.com
+vpn.assistant-api.prd.na.vn.cloud.tesla.com
+raw.github-fw.tesla.com
+s3.b.ams15.tcs.tesla.com
+sts-broker.bottlerocket.tesla.com
+mobile-links-cdn.eng.vn.cloud.tesla.com
+docker.extgithub.tesla.com
+news.hermes-ap.prd.vn.cloud.tesla.com
+dex.ops.bn.na.vn.cloud.tesla.com
+akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+prod.assistant-api.prd.usw2.vn.cloud.tesla.com
+s3.b.smf11.tcs.tesla.com
+app.fleet-apf-prd.tesla.com
+jenkins.hermes-stream-api.prd.na.vn.cloud.tesla.com
+k8s.device-api.prd.eu.vn.cloud.tesla.com
+monitoring.tesla.com
+render.github-ap.tesla.com
+maven.github-it.tesla.com
+apac-cppm.tesla.com
+citiapisslprodv7.tesla.com
+dns2.hermes-stream-api.prd.na.vn.cloud.tesla.com
+store.epuca-prd.usw.vn.cloud.tesla.com
+dal11-gpgw1.tesla.com
+git.epuca-prd.usw.vn.cloud.tesla.com
+s3.c.smf11.tcs.tesla.com
+shop.cua-help-me-choose-ui.tesla.com
+ww2.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+billing.tesla.com
+taffy.bottlerocket.tesla.com
+prod.digitalassets.tesla.com
+auth.prd.usw.vn.cloud.tesla.com
+hermes-stream-api.prd.eu.vn.cloud.tesla.com
+live.hermes-api.prd.na.vn.cloud.tesla.com
+tvs.tesla.com
+apf-api.eng.vn.cloud.tesla.com
+eng.usw2.vn.cloud.tesla.com
+cx-api-apac.tesla.com
+live.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+fleet-auth.tesla.com
+edr.tesla.com
+media.digitalassets.tesla.com
+mta5.emails.tesla.com
+tvs-api.tesla.com
+rubygems.extgithub.tesla.com
+webmail.cua-chat-ui.tesla.com
+doraemon-svc-apac-stg.tesla.com
+raw.github-ap.tesla.com
+b.energy.ams15.tcs.tesla.com
+veritas-staging.bottlerocket.tesla.com
+cxengine-apac-stg.tesla.com
+db.apigateway-charging-bff.tesla.com
+db.digitalcontent.tesla.com
+solarbonds.tesla.com
+device-api.prd.na.vn.cloud.tesla.com
+gateway.hermes-stream-api.prd.na.vn.cloud.tesla.com
+itanswers.tesla.com
+teslacdpna0.tesla.com
+tvs-api-uat.tesla.com
+vehicle-files.prd.usw2.vn.cloud.tesla.com
+pages.github.tesla.com
+npm.github-ap.tesla.com
+media-server-api.prd.vn.cloud.tesla.com
+digitalassets.tesla.com
+forums.tesla.com
+ownerapi-api.eng.euw1.vn.cloud.tesla.com
+media.github-fw.tesla.com
+s3.b.ams17.tcs.tesla.com
+sso-dev.tesla.com
+ro.github-fw.tesla.com
+digitalassets-learning.tesla.com
+3.tesla.com
+vs-bnc.usw2.vn.cloud.tesla.com
+rubygems.github.tesla.com
+alpha.epuca-prd.usw.vn.cloud.tesla.com
+apacvpn1.tesla.com
+cxengine-apac.tesla.com
+integration-kronos-dev.tesla.com
+ns2.digitalassets.tesla.com
+private.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+status.digitalassets.tesla.com
+warpbilling.tesla.com
+kronosdb.tesla.com
+track.hermes-ap.prd.vn.cloud.tesla.com
+gridlogic.powerhub.energy.tesla.com
+media.extgithub.tesla.com
+avatars.github-fw.tesla.com
+img.eu.vn.cloud.tesla.com
+k8s.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+mail2.cua-help-me-charge-ui.tesla.com
+my.epuca-prd.usw.vn.cloud.tesla.com
+o6.ptr9437.tesla.com
+teslacmgap01.tesla.com
+ui.d.smf11.tcs.tesla.com
+forum.analytics-relay.tesla.com
+home.location-services-prd.tesla.com
+tokens-staging.bottlerocket.tesla.com
+ads.hermes-ap.prd.vn.cloud.tesla.com
+dns.fleet-apf-prd.tesla.com
+images.apmv3-cdn-go.tesla.com
+teslamezcal.tesla.com
+signaling-robotics.eng.vn.cloud.tesla.com
+acme-sentry-4a.eng.use1.vn.cloud.tesla.com
+go.location-services-prd.tesla.com
+live.assistant-api.prd.na.vn.cloud.tesla.com
+cloud.akamai-apigateway-charging-ownership.tesla.com
+employeefeedback.tesla.com
+ns1.fleet-apf-prd.tesla.com
+usw2.vn.cloud.tesla.com
+m365api.tesla.com
+static-assets.tesla.com
+gridlogic.energy.tesla.com
+gist.extgithub.tesla.com
+media.auth.tesla.com
+forum.digitalcontent.tesla.com
+mail.hermes-stream-api.prd.na.vn.cloud.tesla.com
+pop.device-api.prd.eu.vn.cloud.tesla.com
+ns3.cloud.tesla.com
+sin05-gpgw1.tesla.com
+codeload.github.tesla.com
+uploads.github.tesla.com
+gist.github-it.tesla.com
+triton-management-uat.tesla.com
+autoconfig.auth.tesla.com
+images.cloud.tesla.com
+ownerapi-alpha.prd.vn.cloud.tesla.com
+cdn.akamai-apigateway-charging-ownership.tesla.com
+chat.hermes-stream-api.prd.na.vn.cloud.tesla.com
+codeload.github-it.tesla.com
+app.akamai-apigateway-suppliers.tesla.com
+engage.tesla.com
+notebooks.extgithub.tesla.com
+npm.github.tesla.com
+discovery.bottlerocket.tesla.com
+ca.tesla.com
+exp-zcp-cloud-na-itmfg-staging.tesla.com
+iad05-gpgw1.tesla.com
+links.tesla.com
+mta.email.tesla.com
+npuv-ap.prd.usw2.vn.cloud.tesla.com
+ns3.device-api.prd.na.vn.cloud.tesla.com
+ads.hcaptcha.tesla.com
+stream.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+apac.logs.tesla.com
+beta.epuca-prd.usw.vn.cloud.tesla.com
+energy.obs.tesla.com
+vms.smf13.tcs.tesla.com
+private.cua-chat-ui.tesla.com
+v1.apf-api.prd.vn.cloud.tesla.com
+fleetview.prd.na.fn.tesla.com
+reply.github-ap.tesla.com
+mta4.emails.tesla.com
+ui.a.smf11.tcs.tesla.com
+upload.assistant-api.prd.usw2.vn.cloud.tesla.com
+ai-api-uat.tesla.com
+npuca-prd.usw2.vn.cloud.tesla.com
+stats.cua-help-me-charge-ui.tesla.com
+raw.extgithub.tesla.com
+energysupport.tesla.com
+epuca-prd.usw.vn.cloud.tesla.com
+video.assistant-api.prd.euw1.vn.cloud.tesla.com
+cn-north-1-prd-teslamaps.k8s.tesla.com
+edge.assistant-api.prd.usw2.vn.cloud.tesla.com
+track.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+live-data.europe.fn.tesla.com
+fleet-apf-prd.tesla.com
+help.apf-api.prd.vn.cloud.tesla.com
+github-it.tesla.com
+cx-apac.tesla.com
+dev-hermes-qd.tesla.com
+vehicle-files.eng.usw2.vn.cloud.tesla.com
+live-data.prd.euw1.fn.tesla.com
+github.tesla.com
+fleetview.america.fn.tesla.com
+home.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+staging.epuca-prd.euw1.vn.cloud.tesla.com
+track.cua-help-me-choose-ui.tesla.com
+demo.assistant-api.prd.usw2.vn.cloud.tesla.com
+model3.tesla.com
+ns2.hermes-stream-api.prd.na.vn.cloud.tesla.com
+www.cua-help-me-charge-ui.tesla.com
+auth.tesla.com
+mobile-links-cdn.prd.vn.cloud.tesla.com
+assets.github-fw.tesla.com
+dns1.hermes-stream-api.prd.na.vn.cloud.tesla.com
+prometheus.cua-help-me-charge-ui.tesla.com
+ir.tesla.com
+monitor.hermes-stream-api.prd.na.vn.cloud.tesla.com
+preview.digitalcontent.tesla.com
+secure.eu.vn.cloud.tesla.com
+status.auth.tesla.com
+cua-help-me-choose-ui.tesla.com
+aws.euw1.vn.cloud.tesla.com
+v3.epc.tesla.com
+media-server-qr.eng.america.vn.cloud.tesla.com
+notebooks.github-it.tesla.com
+azure.assistant-api.prd.euw1.vn.cloud.tesla.com
+int.hermes-stream-api.prd.na.vn.cloud.tesla.com
+my.tesla.com
+status.epuca-prd.euw1.vn.cloud.tesla.com
+v2.hermes-api.prd.na.vn.cloud.tesla.com
+npute-prd.usw.vn.cloud.tesla.com
+avatars.extgithub.tesla.com
+gem-api.prd.vn.cloud.tesla.com
+hermes-stream-api.prd.na.vn.cloud.tesla.com
+ns3.hermes-api.prd.na.vn.cloud.tesla.com
+track.tesla.com
+v2.hermes-stream-api.prd.na.vn.cloud.tesla.com
+live-data.fn.tesla.com
+mta2.email.tesla.com
+wdm.kronos.tesla.com
+webmail.cua-help-me-choose-ui.tesla.com
+live-data.prd.usw.fn.tesla.com
+genai.tesla.com
+reply.github.tesla.com
+click.emails.tesla.com
+vs-bnc.na.vn.cloud.tesla.com
+npute-prd.usw2.vn.cloud.tesla.com
+cloudprotect.tesla.com
+fleetview.prd.america.fn.tesla.com
+stats.apigateway-pricing-gateway.tesla.com
+diner-webapp-stage.tesla.com
+dpuas-prd.usw.vn.cloud.tesla.com
+gateway.epc.tesla.com
+monitor.apigateway-logging.tesla.com
+chat.assistant-api.prd.usw2.vn.cloud.tesla.com
+mail1.hermes-stream-api.prd.na.vn.cloud.tesla.com
+mail.apmv3-cdn-go.tesla.com
+www.digitalassets-shop.tesla.com
+s3.a.buf01.tcs.tesla.com
+dns1.apigateway-logging.tesla.com
+resources.tesla.com
+smtp.digitalcontent.tesla.com
+tripx.eng.usw.vn.cloud.tesla.com
+avatars.github.tesla.com
+account.apf-api.prd.vn.cloud.tesla.com
+autobidder-preprd.powerhub.energy.tesla.com
+gigabier.tesla.com
+mfauser-dev.tesla.com
+private.epc.tesla.com
+cdn.link.tesla.com
+dns2.dpuas-prd.usw.vn.cloud.tesla.com
+ion.tesla.com
+sandbox.digitalassets-shop.tesla.com
+v1.epc.tesla.com
+admin.apigateway-logging.tesla.com
+sip.tesla.com
+inference-staging.tesla.com
+mx.digitalcontent.tesla.com
+eng.usw.vn.cloud.tesla.com
+login.hermes-ap.prd.vn.cloud.tesla.com
+edge.digitalassets.tesla.com
+www-uat.tesla.com
+prd.vn.cloud.tesla.com
+ro.github.tesla.com
+mail2.extsentry.tesla.com
+public.epc.tesla.com
+wiki.hermes-api.prd.na.vn.cloud.tesla.com
+cxadmin-apac-stg.tesla.com
+shop.extsentry.tesla.com
+diner-webapp.tesla.com
+static-assets-contactus-comm-preferences.tesla.com
+triton-server-uat.tesla.com
+cx-apac-stg.tesla.com
+render.github-fw.tesla.com
+fleetview.prd.euw1.fn.tesla.com
+hermes-ap.prd.vn.cloud.tesla.com
+hub.assistant-api.prd.usw2.vn.cloud.tesla.com
+sentry-api.ops.na.vn.cloud.tesla.com
+video.fleet-apf-prd.tesla.com
+fleet-streaming-api.prd.vn.cloud.tesla.com
+mail.auth.tesla.com
+ns4.cloud.tesla.com
+private.digitalassets-shop.tesla.com
+secure.hermes-api.prd.na.vn.cloud.tesla.com
+go.energy.obs.tesla.com
+live-data.america.fn.tesla.com
+prometheus.digitalassets.tesla.com
+s3.energy.obs.tesla.com
+vpn2.tesla.com
+www.vpn1.tesla.com
+docker.github.tesla.com
+tvs-stg.tesla.com
+bolt.tesla.com
+diner-api-stage.tesla.com
+s3.a.iad06.tcs.tesla.com
+mta2.emails.tesla.com
+staging.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+cn-north-1-eng-teslamaps.k8s.tesla.com
+dev.fleet-apf-prd.tesla.com
+img.energy.obs.tesla.com
+assets.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+shop.apigateway-pricing-gateway.tesla.com
+pixiecloud.tesla.com
+comparison.tesla.com
+analytics.dpuas-prd.usw.vn.cloud.tesla.com
+cloud.epc.tesla.com
+mfs-synergy.tesla.com
+ams13-gpgw1.tesla.com
+m.epuca-prd.euw1.vn.cloud.tesla.com
+developer.tesla.com
+www.apigateway-charging-bff.tesla.com
+CitiApiEncProdv5.tesla.com
+auth-stage.tesla.com
+home.digitalassets.tesla.com
+sjc36-gpgw1.tesla.com
+paymentrecon.tesla.com
+static.hermes-api.prd.eu.vn.cloud.tesla.com
+toolbox.tesla.com
+autobidder.powerhub.energy.tesla.com
+cdn.location-services-prd.tesla.com
+external.fleet-apf-prd.tesla.com
+gcp.apigateway-charging-bff.tesla.com
+live-data.prd.na.fn.tesla.com
+media.github.tesla.com
+triton-server.tesla.com
+cryptopay2.tesla.com
+apigateway-message-center-ownership.tesla.com
+cyberbeer.tesla.com
+live.epuca-prd.usw.vn.cloud.tesla.com
+storage.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+cdn.hermes-stream-api.prd.na.vn.cloud.tesla.com
+external.hermes-api.prd.na.vn.cloud.tesla.com
+static.energy.obs.tesla.com
+xmail.tesla.com
+ownerapi-api.eng.usw2.vn.cloud.tesla.com
+wim-kronos-dev.tesla.com
+mobile-links.prd.vn.cloud.tesla.com
+fleet-api.eng.na.vn.cloud.tesla.com
+kronos.tesla.com
+obs.tesla.com
+www.ug.tesla.com
+viewscreen.github-fw.tesla.com
+tf-poc.tesla.com
+energy.tesla.com
+s3.prd.na.vn.cloud.tesla.com
+ww1.fleet-music-prd.tesla.com
+dev.assistant-api.prd.usw2.vn.cloud.tesla.com
+ns3.analytics-relay.tesla.com
+stream.epuca-prd.usw.vn.cloud.tesla.com
+o3.ptr1444.tesla.com
+secure.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+docker.github-fw.tesla.com
+preview.assistant-api.prd.usw2.vn.cloud.tesla.com
+tesla-hermes-snapshot-motors.eng.usw.vn.cloud.tesla.com
+dns.apigateway-pricing-gateway.tesla.com
+api.cua-help-me-charge-ui.tesla.com
+wiki.apigateway-message-center-ownership.tesla.com
+server.tesla.com
+eng.na.vn.cloud.tesla.com
+public.digitalassets-shop.tesla.com
+blog.extsentry.tesla.com
+dns.hermes-stream-api.prd.na.vn.cloud.tesla.com
+go.device-api.prd.eu.vn.cloud.tesla.com
+nv.tesla.com
+nuget.github-it.tesla.com
+dns1.assistant-api.prd.usw2.vn.cloud.tesla.com
+exp-zcp-cloud-na-itmfg.tesla.com
+gcp.euw1.vn.cloud.tesla.com
+image.emails.tesla.com
+prod.device-api.prd.na.vn.cloud.tesla.com
+tripx.eng.usw2.vn.cloud.tesla.com
+assets.eu.vn.cloud.tesla.com
+dns1.assistant-api.prd.na.vn.cloud.tesla.com
+images.apigateway-message-center-ownership.tesla.com
+energydesk.tesla.com
+mobile.kronos.tesla.com
+ww2.digitalcontent.tesla.com
+media.digitalcontent.tesla.com
+m.extsentry.tesla.com
+maven.github-ap.tesla.com
+uploads.github-fw.tesla.com
+inside.tesla.com
+media-server-api.eng.vn.cloud.tesla.com
+apigateway-charging-bff.tesla.com
+images.dpuas-prd.usw.vn.cloud.tesla.com
+ns4.device-api.prd.na.vn.cloud.tesla.com
+teslatequila.tesla.com
+wim.kronos.tesla.com
+my.hermes-api.prd.na.vn.cloud.tesla.com
+stream.digitalcontent.tesla.com
+ai-api.tesla.com
+mfs-reno.tesla.com
+a.energy.smf13.tcs.tesla.com
+fleetview.fn.tesla.com
+ns2.analytics-relay.tesla.com
+staging.assistant-api.prd.usw2.vn.cloud.tesla.com
+integration.kronos.tesla.com
+warehouse.tesla.com
+livestream.tesla.com
+nav.vn.cloud.tesla.com
+track.hermes-api.prd.eu.vn.cloud.tesla.com
+uploads.github-ap.tesla.com
+incontrol.tesla.com
+s3.a.smf11.tcs.tesla.com
+live-data.prd.usw2.fn.tesla.com
+tripx-alpha.prd.vn.cloud.tesla.com
+auth.prd.euw1.vn.cloud.tesla.com
+ny.tesla.com
+o5.ptr8466.tesla.com
+tripx.prd.usw2.vn.cloud.tesla.com
+admin.dpuas-prd.usw.vn.cloud.tesla.com
+internal.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+portal.cua-help-me-charge-ui.tesla.com
+teslacmgcn01.tesla.com
+v3.hcaptcha.tesla.com
+a.energy.smf12.tcs.tesla.com
+energy-technician.bottlerocket.tesla.com
+cnvpn.tesla.com
+dex.ops.vs-bnc.na.vn.cloud.tesla.com
+vn.tesla.com
+vdi.tesla.com
+docs.bottlerocket.tesla.com
+live-data.prd.europe.fn.tesla.com
+codeload.github-ap.tesla.com
+cdn.eu.vn.cloud.tesla.com
+logtransit-ext.tesla.com
+mail1.akamai-apigateway-suppliers.tesla.com
+static.epc.tesla.com
+test.akamai-apigateway-suppliers.tesla.com
+uploads.extgithub.tesla.com
+analytics.hcaptcha.tesla.com
+docs.location-services-prd.tesla.com
+paymentrecon-stage.tesla.com
+v1.device-api.prd.na.vn.cloud.tesla.com
+reply.extgithub.tesla.com
+dns1.device-api.prd.na.vn.cloud.tesla.com
+gpv.tesla.com
+o1.ptr2410.link.tesla.com
+smtp.euw1.vn.cloud.tesla.com
+oxp-charging-guest-web.tesla.com
+s3.b.vast.tcs.tesla.com
+embed-staging.bottlerocket.tesla.com
+account.euw1.vn.cloud.tesla.com
+vms.iad06.tcs.tesla.com
+hnd13-gpgw1.tesla.com
+render.github.tesla.com
+dns.epuca-prd.euw1.vn.cloud.tesla.com
+imap.auth.tesla.com
+powerhub.energy.tesla.com
+npm.github-it.tesla.com
+ai-api-stg.tesla.com
+partners.tesla.com
+vrp-stg.tesla.com
+v1.hermes-ap.prd.vn.cloud.tesla.com
+web.digitalassets-accounts.tesla.com
+www.engage.tesla.com
+github-ap.tesla.com
+ads.akamai-apigateway-vfx.tesla.com
+na-sso.tesla.com
+discovery-service.bottlerocket.tesla.com
+mail2.hermes-stream-api.prd.na.vn.cloud.tesla.com
+ns2.epuca-prd.euw1.vn.cloud.tesla.com
+kronos-dev.tesla.com
+smarttax.tesla.com
+stream.akamai-apigateway-charging-ownership.tesla.com
+www.tesla.com
+rubygems.github-ap.tesla.com
+triton-management-stg.tesla.com
+fleet-music-prd.tesla.com
+ns4.akamai-apigateway-vfx.tesla.com
+shop.eu.tesla.com
+stream.dpuas-prd.usw.vn.cloud.tesla.com
+factory.tesla.com
+payment-dlocal-stg.tesla.com
+autoconfig.euw1.vn.cloud.tesla.com
+hermes-api.prd.eu.vn.cloud.tesla.com
+issue-tracker-stg.tesla.com
+paloalto.tesla.com
+bettertime-stage.tesla.com
+prd.america.vn.cloud.tesla.com
+mobile-ops-links.prd.vn.cloud.tesla.com
+s3.hermes-stream-api.prd.eu.vn.cloud.tesla.com
+issue-trackerapi-stg.tesla.com
+tripx.prd.vn.cloud.tesla.com
+mail.assistant-api.prd.usw2.vn.cloud.tesla.com
+media.epc.tesla.com
+ns2.fleet-music-prd.tesla.com
+s3.eng.na.vn.cloud.tesla.com
+apigateway-logging.tesla.com
+ns4.cua-help-me-charge-ui.tesla.com
+tripx.prd.usw.vn.cloud.tesla.com
+service.tesla.com
+hcaptcha.tesla.com
+www.apigateway-message-center-ownership.tesla.com
+nuget.github.tesla.com
+consul.bottlerocket.tesla.com
+ftp.extsentry.tesla.com
+blog.device-api.prd.na.vn.cloud.tesla.com
+syd14-gpgw1.tesla.com
+telemetry-ap.prd.vn.cloud.tesla.com
+eu.logs.tesla.com
+assets.epc.tesla.com
+lax32-gpgw1.tesla.com
+static-assets-pay.tesla.com
+ownerapi-api.eng.usw.vn.cloud.tesla.com
+pages.extgithub.tesla.com
+prd.na.vn.cloud.tesla.com
+db.cua-chat-ui.tesla.com
+inventory-assets.tesla.com
+npute-prd.euw1.vn.cloud.tesla.com
+sentry.app.tesla.com
+prd.eu.vn.cloud.tesla.com
+de.tesla.com
+avatars.github-ap.tesla.com
+pages.github-fw.tesla.com
+avatars.github-it.tesla.com
+npuv-eng.usw2.vn.cloud.tesla.com
+ns4.digitalcontent.tesla.com
+x3-eng.obs.tesla.com
+extgithub.tesla.com
+render.github-it.tesla.com
+k8s.hermes-stream-api.prd.na.vn.cloud.tesla.com
+o4.ptr1867.tesla.com
+uploads.github-it.tesla.com
+apmv3-cdn-go.tesla.com
+ftp.akamai-apigateway-vfx.tesla.com
+viewscreen.github-it.tesla.com
+akamai-apigateway-einvoicing-stg.tesla.com
+fra05-gpgw1.tesla.com
+media.hermes-api.prd.eu.vn.cloud.tesla.com
+o7.ptr6980.tesla.com
+os.tesla.com
+cloud.tesla.com
+s3.d.smf11.tcs.tesla.com
+courses.tesla.com
+click.hermes-ap.prd.vn.cloud.tesla.com
+images.apf-api.prd.vn.cloud.tesla.com
+fleetview.europe.fn.tesla.com
+jenkins.digitalassets.tesla.com
+prod.eu.vn.cloud.tesla.com
+app.apigateway-logging.tesla.com
+gateway.hermes-ap.prd.vn.cloud.tesla.com
+mfa.tesla.com
+signaling-alpha.prd.vn.cloud.tesla.com
+mail1.euw1.vn.cloud.tesla.com
+sso.tesla.com
+teslacmgeu01.tesla.com
+www.apigateway-logging.tesla.com
+nuget.github-fw.tesla.com
+energy.bottlerocket.tesla.com
+emails.tesla.com
+view.emails.tesla.com
+gist.github-fw.tesla.com
+akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
+eng.euw1.vn.cloud.tesla.com
+exp-zcp-cloud-eu-itmfg.tesla.com
+files.hermes-ap.prd.vn.cloud.tesla.com
+npuca-prd.usw.vn.cloud.tesla.com
+pop.epuca-prd.euw1.vn.cloud.tesla.com
+pages.github-it.tesla.com
+gitlab.digitalassets.tesla.com
+media.hcaptcha.tesla.com
+mobile-links.eng.vn.cloud.tesla.com
+cryptopay3.tesla.com
+feedback.tesla.com
+imap.digitalcontent.tesla.com
+s3.eu.vn.cloud.tesla.com
+x3.obs.tesla.com
+ptr1.tesla.com
+fleet-auth.prd.vn.cloud.tesla.com
+ns3.energy.obs.tesla.com
+cua-chat-ui.tesla.com
+shop.tesla.com
+assets.github-it.tesla.com
+raw.github-it.tesla.com
+sc-eu-cppm.tesla.com
+
+[+] Running httpx to find live subdomains...
+http://digitalassets-shop.tesla.com
+https://www.engage.tesla.com
+https://www.tesla.com
+https://vehicle-files.eng.usw2.vn.cloud.tesla.com
+http://vehicle-files.prd.usw2.vn.cloud.tesla.com
+http://vehicle-files.prd.euw1.vn.cloud.tesla.com
+http://vehicle-files.eng.euw1.vn.cloud.tesla.com
+http://wire.tesla.com
+http://xmail.tesla.com
+http://warehouse.tesla.com
+
+[+] Running naabu for port scanning...
+
+[+] Running tlsx for TLS inspection...
+
+[+] Running dnstwist for typosquatting...
+*original      tesla.com     2.18.48.207 NS:a1-12.akam.net MX:tesla-com.mail.protection.outlook.com
+addition       teslas.com    104.247.81.99 NS:ns1.parkingcrew.net
+addition       tesla7.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+addition       teslac.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:domain-for-sale.hugedomainsdns.com
+addition       teslae.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+addition       teslah.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+addition       teslap.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+addition       teslau.com    13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+addition       tesla2.com    13.248.169.48 NS:ns1.dan.com
+addition       tesla4.com    13.248.169.48 NS:ns3.afternic.com MX:
+addition       teslaf.com    13.248.169.48 NS:ns3.afternic.com MX:
+addition       teslaj.com    13.248.169.48 NS:ns3.afternic.com MX:
+addition       teslak.com    13.248.169.48 NS:ns1.afternic.com MX:
+addition       tesla9.com    15.197.225.128 NS:ns33.domaincontrol.com MX:mailstore1.secureserver.net
+addition       tesla5.com    185.230.63.107 NS:ns14.wixdns.net
+addition       teslaa.com    -
+addition       teslag.com    13.248.169.48 NS:ns3.afternic.com MX:
+addition       teslaq.com    15.197.148.33 NS:ns05.domaincontrol.com MX:mailstore1.secureserver.net
+addition       teslao.com    15.197.225.128 NS:ns37.domaincontrol.com MX:mailstore1.secureserver.net
+addition       teslab.com    172.66.0.70 NS:ns1037.ui-dns.de MX:teslab-com.mail.protection.outlook.com
+addition       teslal.com    20.193.173.92 NS:expire1.gname-dns.com
+addition       teslay.com    20.193.173.92 NS:ns13.domaincontrol.com
+addition       tesla1.com    216.158.44.23 NS:ns67.worldnic.com MX:mx001.netsol.xion.oxcs.net
+addition       teslar.com    23.227.38.32 NS:ns37.domaincontrol.com MX:alt1.aspmx.l.google.com
+addition       teslad.com    3.33.139.32 NS:ns1.markmonitor.com
+addition       tesla8.com    44.232.173.249 NS:launch1.spaceship.net
+addition       teslan.com    44.232.173.249 NS:launch1.spaceship.net
+addition       teslat.com    50.63.8.249 NS:ns39.domaincontrol.com MX:mx.zoho.com
+addition       tesla3.com    51.91.236.193 2001:41d0:301::28 NS:dns200.anycast.me MX:mx1.mail.ovh.net
+addition       teslam.com    52.20.84.62 NS:ns1.atom.com
+addition       teslaz.com    52.44.244.98 2600:1f18:4ae:c607:d1d9:565f:b122:bfdb NS:ns1.namebrightdns.com MX:mail1.namebrightmail.com
+addition       tesla6.com    64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+addition       teslai.com    64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+addition       teslav.com    -
+addition       teslaw.com    64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+addition       teslax.com    64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+addition       tesla0.com    77.87.195.252 NS:ns1.mirohost.net MX:mx1.mirohost.net
+bitsquatting   4esla.com     -
+bitsquatting   tmsla.com     13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:nsg1.namebrightdns.com
+bitsquatting   desla.com     13.248.169.48 NS:ns1.afternic.com MX:
+bitsquatting   tesha.com     13.248.169.48 NS:ns1.afternic.com MX:
+bitsquatting   tasla.com     13.248.243.5 NS:ns69.domaincontrol.com
+bitsquatting   tdsla.com     13.248.243.5 NS:ns51.domaincontrol.com MX:tdsla-com.mail.protection.outlook.com
+bitsquatting   pesla.com     54.215.31.113 NS:ns1.dyna-ns.net
+bitsquatting   terla.com     64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+bitsquatting   tesda.com     64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+bitsquatting   tesle.com     86.105.245.69 NS:ns1.eftydns.com
+bitsquatting   teslq.com     -
+bitsquatting   tesna.com     13.248.169.48 NS:ns1.afternic.com MX:
+bitsquatting   tusla.com     13.248.169.48 NS:ns1.namefind.com
+bitsquatting   vesla.com     13.248.169.48 NS:ns1.afternic.com MX:
+bitsquatting   tesma.com     185.107.239.139 NS:ns.checkdomain.de
+bitsquatting   teslc.com     185.53.179.146 NS:ns1.dyna-ns.net
+bitsquatting   tgsla.com     192.195.77.9 2607:f1c0:1000:8045:3bb6:1ad:1821:80c NS:ns1126.ui-dns.biz MX:mx00.ionos.com
+bitsquatting   tewla.com     192.64.119.213 NS:dns1.registrar-servers.com
+bitsquatting   teqla.com     216.69.141.67 NS:ns53.domaincontrol.com MX:mailstore1.secureserver.net
+bitsquatting   tecla.com     35.214.109.120 NS:ns1.siteground.net MX:mx10.antispam.mailspamprotection.com
+bitsquatting   uesla.com     62.149.128.40 NS:dns.technorail.com MX:mx.uesla.com
+bitsquatting   te3la.com     88.222.243.81 2a02:4780:1f:153d:b66:17ee:815f:40f4 NS:ns1.dns-parking.com
+bitsquatting   tesli.com     95.131.30.138 NS:bratsk.ens.mail.ru MX:emx.mail.ru
+cyrillic       теѕӏа.com     NS:ns-1494.awsdns-58.org
+homoglyph      tcs1a.com     -
+homoglyph      tcsla.com     13.223.25.84 2600:1f18:4ae:c605:dd5d:b838:5816:d7fb NS:domain-for-sale.hugedomainsdns.com
+homoglyph      tesia.com     16.59.232.112 NS:ns-100.awsdns-12.com MX:d273984a.ess.barracudanetworks.com
+homoglyph      tcsia.com     38.239.106.67 NS:a.share-dns.com
+homoglyph      tes1a.com     NS:ns-cloud-e1.googledomains.com MX:alt1.aspmx.l.google.com
+homoglyph      ŧcsla.com     -
+homoglyph      ṫcsla.com     -
+homoglyph      ţcsla.com     -
+homoglyph      ṭcsla.com     -
+homoglyph      ťcsla.com     -
+homoglyph      ƫcsla.com     -
+homoglyph      țcsla.com     -
+homoglyph      țešla.com     -
+homoglyph      ṫešla.com     -
+homoglyph      ƫešla.com     -
+homoglyph      ṭešla.com     -
+homoglyph      ŧešla.com     -
+homoglyph      ţešla.com     -
+homoglyph      ťešla.com     -
+homoglyph      ṫeșla.com     -
+homoglyph      ṭeșla.com     -
+homoglyph      țeșla.com     -
+homoglyph      ṫeʂla.com     -
+homoglyph      ṭeʂla.com     -
+homoglyph      ţeʂla.com     -
+homoglyph      ţeṡla.com     -
+homoglyph      ţeșla.com     -
+homoglyph      ţeṣla.com     -
+homoglyph      ţeꜱla.com     -
+homoglyph      țeʂla.com     -
+homoglyph      țeṡla.com     -
+homoglyph      țeṣla.com     -
+homoglyph      țeꜱla.com     -
+homoglyph      ṫeśla.com     -
+homoglyph      ƫeśla.com     -
+homoglyph      ṭeśla.com     -
+homoglyph      țeśla.com     -
+homoglyph      ţeśla.com     -
+homoglyph      ťeśla.com     -
+homoglyph      ŧeśla.com     -
+homoglyph      ťeʂla.com     -
+homoglyph      ťeṡla.com     -
+homoglyph      ťeșla.com     -
+homoglyph      ťeṣla.com     -
+homoglyph      ťeꜱla.com     -
+homoglyph      ƫeʂla.com     -
+homoglyph      ƫeṡla.com     -
+homoglyph      ƫeșla.com     -
+homoglyph      ƫeṣla.com     -
+homoglyph      ƫeꜱla.com     -
+homoglyph      ṫeṡla.com     -
+homoglyph      ṭeṡla.com     -
+homoglyph      ṫeŝla.com     -
+homoglyph      ƫeŝla.com     -
+homoglyph      ṭeŝla.com     -
+homoglyph      țeŝla.com     -
+homoglyph      ţeŝla.com     -
+homoglyph      ťeŝla.com     -
+homoglyph      ŧeŝla.com     -
+homoglyph      ṫeꜱla.com     -
+homoglyph      ŧeʂla.com     -
+homoglyph      ŧeṡla.com     -
+homoglyph      ŧeșla.com     -
+homoglyph      ŧeṣla.com     -
+homoglyph      ŧeꜱla.com     -
+homoglyph      ṭeṣla.com     -
+homoglyph      ṫeṣla.com     -
+homoglyph      ṭeşla.com     -
+homoglyph      țeşla.com     -
+homoglyph      ṫeşla.com     -
+homoglyph      ƫeşla.com     -
+homoglyph      ťeşla.com     -
+homoglyph      ŧeşla.com     -
+homoglyph      ţeşla.com     -
+homoglyph      ṭeꜱla.com     -
+homoglyph      ŧes1a.com     -
+homoglyph      ṫes1a.com     -
+homoglyph      ţes1a.com     -
+homoglyph      ṭes1a.com     -
+homoglyph      ťes1a.com     -
+homoglyph      ƫes1a.com     -
+homoglyph      țes1a.com     -
+homoglyph      țesľa.com     -
+homoglyph      ṫesľa.com     -
+homoglyph      ƫesľa.com     -
+homoglyph      ṭesľa.com     -
+homoglyph      ţesľa.com     -
+homoglyph      ťesľa.com     -
+homoglyph      ŧesľa.com     -
+homoglyph      ţesɫa.com     -
+homoglyph      țesɫa.com     -
+homoglyph      ťesɫa.com     -
+homoglyph      ƫesɫa.com     -
+homoglyph      ṫesɫa.com     -
+homoglyph      ṭesɫa.com     -
+homoglyph      ṫesła.com     -
+homoglyph      ƫesła.com     -
+homoglyph      ṭesła.com     -
+homoglyph      țesła.com     -
+homoglyph      ţesła.com     -
+homoglyph      ťesła.com     -
+homoglyph      ŧesła.com     -
+homoglyph      țesĺa.com     -
+homoglyph      ṫesĺa.com     -
+homoglyph      ƫesĺa.com     -
+homoglyph      ṭesĺa.com     -
+homoglyph      ţesĺa.com     -
+homoglyph      ťesĺa.com     -
+homoglyph      ŧesĺa.com     -
+homoglyph      ŧesɫa.com     -
+homoglyph      țesļa.com     -
+homoglyph      ṫesļa.com     -
+homoglyph      ƫesļa.com     -
+homoglyph      ṭesļa.com     -
+homoglyph      ţesļa.com     -
+homoglyph      ťesļa.com     -
+homoglyph      ŧesļa.com     -
+homoglyph      ŧesia.com     -
+homoglyph      ṫesia.com     -
+homoglyph      ţesia.com     -
+homoglyph      ṭesia.com     -
+homoglyph      ťesia.com     -
+homoglyph      ƫesia.com     -
+homoglyph      țesia.com     -
+homoglyph      ţeslā.com     -
+homoglyph      ťeslā.com     -
+homoglyph      ŧeslā.com     -
+homoglyph      țeslā.com     -
+homoglyph      ṫeslā.com     -
+homoglyph      ƫeslā.com     -
+homoglyph      ṭeslā.com     -
+homoglyph      ţeslǎ.com     -
+homoglyph      ţeslɑ.com     -
+homoglyph      ţeslạ.com     -
+homoglyph      ţeslə.com     -
+homoglyph      ţeslȧ.com     -
+homoglyph      țeslạ.com     -
+homoglyph      țeslə.com     -
+homoglyph      țeslȧ.com     -
+homoglyph      țeslɑ.com     -
+homoglyph      ṫeslà.com     -
+homoglyph      ƫeslà.com     -
+homoglyph      ṭeslà.com     -
+homoglyph      ţeslà.com     -
+homoglyph      ťeslà.com     -
+homoglyph      ŧeslà.com     -
+homoglyph      țeslà.com     -
+homoglyph      ťeslă.com     -
+homoglyph      ŧeslă.com     -
+homoglyph      țeslă.com     -
+homoglyph      ṫeslă.com     -
+homoglyph      ƫeslă.com     -
+homoglyph      ṭeslă.com     -
+homoglyph      ţeslă.com     -
+homoglyph      ṫeslə.com     -
+homoglyph      ṭeslə.com     -
+homoglyph      ťeslǎ.com     -
+homoglyph      ťeslạ.com     -
+homoglyph      ťeslə.com     -
+homoglyph      ťeslȧ.com     -
+homoglyph      ťeslɑ.com     -
+homoglyph      ƫeslǎ.com     -
+homoglyph      ƫeslȧ.com     -
+homoglyph      ƫeslɑ.com     -
+homoglyph      ƫeslạ.com     -
+homoglyph      ƫeslə.com     -
+homoglyph      ṫeslá.com     -
+homoglyph      ƫeslá.com     -
+homoglyph      ṭeslá.com     -
+homoglyph      ţeslá.com     -
+homoglyph      ťeslá.com     -
+homoglyph      ŧeslá.com     -
+homoglyph      țeslá.com     -
+homoglyph      ṫeslɑ.com     -
+homoglyph      ṭeslɑ.com     -
+homoglyph      ṫeslǎ.com     -
+homoglyph      ṭeslǎ.com     -
+homoglyph      țeslǎ.com     -
+homoglyph      ṫeslâ.com     -
+homoglyph      ƫeslâ.com     -
+homoglyph      ṭeslâ.com     -
+homoglyph      ţeslâ.com     -
+homoglyph      ťeslâ.com     -
+homoglyph      ŧeslâ.com     -
+homoglyph      țeslâ.com     -
+homoglyph      ŧeslą.com     -
+homoglyph      țeslą.com     -
+homoglyph      ṫeslą.com     -
+homoglyph      ƫeslą.com     -
+homoglyph      ṭeslą.com     -
+homoglyph      ţeslą.com     -
+homoglyph      ťeslą.com     -
+homoglyph      ṫeslạ.com     -
+homoglyph      ŧeslǎ.com     -
+homoglyph      ŧeslạ.com     -
+homoglyph      ŧeslə.com     -
+homoglyph      ŧeslȧ.com     -
+homoglyph      ŧeslɑ.com     -
+homoglyph      ṫeslã.com     -
+homoglyph      ƫeslã.com     -
+homoglyph      ṭeslã.com     -
+homoglyph      ţeslã.com     -
+homoglyph      ťeslã.com     -
+homoglyph      ŧeslã.com     -
+homoglyph      țeslã.com     -
+homoglyph      ṭeslȧ.com     -
+homoglyph      ṫeslȧ.com     -
+homoglyph      ṫeslä.com     -
+homoglyph      ƫeslä.com     -
+homoglyph      ṭeslä.com     -
+homoglyph      ţeslä.com     -
+homoglyph      ťeslä.com     -
+homoglyph      ŧeslä.com     -
+homoglyph      țeslä.com     -
+homoglyph      ṭeslạ.com     -
+homoglyph      ṫeslå.com     -
+homoglyph      ƫeslå.com     -
+homoglyph      ṭeslå.com     -
+homoglyph      ţeslå.com     -
+homoglyph      ťeslå.com     -
+homoglyph      ŧeslå.com     -
+homoglyph      țeslå.com     -
+homoglyph      ŧesla.com     -
+homoglyph      ṫesla.com     -
+homoglyph      ţesla.com     -
+homoglyph      ṭesla.com     -
+homoglyph      ťesla.com     -
+homoglyph      ƫesla.com     -
+homoglyph      țesla.com     -
+homoglyph      ţēsla.com     -
+homoglyph      ťēsla.com     -
+homoglyph      ŧēsla.com     -
+homoglyph      țēsla.com     -
+homoglyph      ṫēsla.com     -
+homoglyph      ƫēsla.com     -
+homoglyph      ṭēsla.com     -
+homoglyph      ţèsla.com     -
+homoglyph      ťèsla.com     -
+homoglyph      ŧèsla.com     -
+homoglyph      țèsla.com     -
+homoglyph      ṫèsla.com     -
+homoglyph      ƫèsla.com     -
+homoglyph      ṭèsla.com     -
+homoglyph      ţȩsla.com     -
+homoglyph      ţɇsla.com     -
+homoglyph      ţẹsla.com     -
+homoglyph      ţḛsla.com     -
+homoglyph      țẹsla.com     -
+homoglyph      țḛsla.com     -
+homoglyph      țȩsla.com     -
+homoglyph      țɇsla.com     -
+homoglyph      ţésla.com     -
+homoglyph      ťésla.com     -
+homoglyph      ŧésla.com     -
+homoglyph      țésla.com     -
+homoglyph      ṫésla.com     -
+homoglyph      ƫésla.com     -
+homoglyph      ṭésla.com     -
+homoglyph      ṫɇsla.com     -
+homoglyph      ṭɇsla.com     -
+homoglyph      ţĕsla.com     -
+homoglyph      ťĕsla.com     -
+homoglyph      ŧĕsla.com     -
+homoglyph      țĕsla.com     -
+homoglyph      ṫĕsla.com     -
+homoglyph      ƫĕsla.com     -
+homoglyph      ṭĕsla.com     -
+homoglyph      ţêsla.com     -
+homoglyph      ťêsla.com     -
+homoglyph      ŧêsla.com     -
+homoglyph      țêsla.com     -
+homoglyph      ṫêsla.com     -
+homoglyph      ƫêsla.com     -
+homoglyph      ṭêsla.com     -
+homoglyph      ťɇsla.com     -
+homoglyph      ťẹsla.com     -
+homoglyph      ťḛsla.com     -
+homoglyph      ťȩsla.com     -
+homoglyph      ṭḛsla.com     -
+homoglyph      ṫḛsla.com     -
+homoglyph      ƫẹsla.com     -
+homoglyph      ƫḛsla.com     -
+homoglyph      ƫȩsla.com     -
+homoglyph      ƫɇsla.com     -
+homoglyph      ţësla.com     -
+homoglyph      ťësla.com     -
+homoglyph      ŧësla.com     -
+homoglyph      țësla.com     -
+homoglyph      ṫësla.com     -
+homoglyph      ƫësla.com     -
+homoglyph      ṭësla.com     -
+homoglyph      ťėsla.com     -
+homoglyph      ŧėsla.com     -
+homoglyph      țėsla.com     -
+homoglyph      ṫėsla.com     -
+homoglyph      ƫėsla.com     -
+homoglyph      ṭėsla.com     -
+homoglyph      ţėsla.com     -
+homoglyph      ṫẹsla.com     -
+homoglyph      ŧɇsla.com     -
+homoglyph      ŧẹsla.com     -
+homoglyph      ŧḛsla.com     -
+homoglyph      ŧȩsla.com     -
+homoglyph      ŧęsla.com     -
+homoglyph      țęsla.com     -
+homoglyph      ṫęsla.com     -
+homoglyph      ƫęsla.com     -
+homoglyph      ṭęsla.com     -
+homoglyph      ţęsla.com     -
+homoglyph      ťęsla.com     -
+homoglyph      ṭẹsla.com     -
+homoglyph      ṫȩsla.com     -
+homoglyph      ṭȩsla.com     -
+homoglyph      ṫěsla.com     -
+homoglyph      ƫěsla.com     -
+homoglyph      ṭěsla.com     -
+homoglyph      ţěsla.com     -
+homoglyph      ťěsla.com     -
+homoglyph      ŧěsla.com     -
+homoglyph      țěsla.com     -
+homoglyph      tcṡla.com     -
+homoglyph      tcşla.com     -
+homoglyph      tcṣla.com     -
+homoglyph      tcšla.com     -
+homoglyph      tcꜱla.com     -
+homoglyph      tcśla.com     -
+homoglyph      tcʂla.com     -
+homoglyph      tcșla.com     -
+homoglyph      tcŝla.com     -
+homoglyph      tcsła.com     -
+homoglyph      tcsļa.com     -
+homoglyph      tcsľa.com     -
+homoglyph      tcsɫa.com     -
+homoglyph      tcsĺa.com     -
+homoglyph      tcslǎ.com     -
+homoglyph      tcslà.com     -
+homoglyph      tcslă.com     -
+homoglyph      tcslá.com     -
+homoglyph      tcslạ.com     -
+homoglyph      tcslâ.com     -
+homoglyph      tcslą.com     -
+homoglyph      tcslã.com     -
+homoglyph      tcslä.com     -
+homoglyph      tcslɑ.com     -
+homoglyph      tcslå.com     -
+homoglyph      tcslā.com     -
+homoglyph      tcslȧ.com     -
+homoglyph      tcslə.com     -
+homoglyph      teṡ1a.com     -
+homoglyph      teş1a.com     -
+homoglyph      teṣ1a.com     -
+homoglyph      teš1a.com     -
+homoglyph      teꜱ1a.com     -
+homoglyph      teś1a.com     -
+homoglyph      teʂ1a.com     -
+homoglyph      teș1a.com     -
+homoglyph      teŝ1a.com     -
+homoglyph      teʂľa.com     -
+homoglyph      teṡľa.com     -
+homoglyph      teșľa.com     -
+homoglyph      teṣľa.com     -
+homoglyph      teꜱľa.com     -
+homoglyph      teśľa.com     -
+homoglyph      teŝľa.com     -
+homoglyph      teşľa.com     -
+homoglyph      tešľa.com     -
+homoglyph      tešɫa.com     -
+homoglyph      teșɫa.com     -
+homoglyph      teśɫa.com     -
+homoglyph      teṡɫa.com     -
+homoglyph      teṣɫa.com     -
+homoglyph      teꜱɫa.com     -
+homoglyph      teʂɫa.com     -
+homoglyph      teʂła.com     -
+homoglyph      teꜱła.com     -
+homoglyph      teṡła.com     -
+homoglyph      teșła.com     -
+homoglyph      teṣła.com     -
+homoglyph      teśła.com     -
+homoglyph      teŝła.com     -
+homoglyph      teşła.com     -
+homoglyph      tešła.com     -
+homoglyph      teʂĺa.com     -
+homoglyph      teṡĺa.com     -
+homoglyph      teșĺa.com     -
+homoglyph      teṣĺa.com     -
+homoglyph      teꜱĺa.com     -
+homoglyph      teśĺa.com     -
+homoglyph      teŝĺa.com     -
+homoglyph      teşĺa.com     -
+homoglyph      tešĺa.com     -
+homoglyph      teŝɫa.com     -
+homoglyph      teʂļa.com     -
+homoglyph      teṡļa.com     -
+homoglyph      teșļa.com     -
+homoglyph      teṣļa.com     -
+homoglyph      teꜱļa.com     -
+homoglyph      teśļa.com     -
+homoglyph      teŝļa.com     -
+homoglyph      teşļa.com     -
+homoglyph      tešļa.com     -
+homoglyph      teşɫa.com     -
+homoglyph      teṡia.com     -
+homoglyph      teşia.com     -
+homoglyph      teṣia.com     -
+homoglyph      tešia.com     -
+homoglyph      teꜱia.com     -
+homoglyph      teśia.com     -
+homoglyph      teʂia.com     -
+homoglyph      teșia.com     -
+homoglyph      teŝia.com     -
+homoglyph      tešlǎ.com     -
+homoglyph      tešlȧ.com     -
+homoglyph      tešlɑ.com     -
+homoglyph      tešlạ.com     -
+homoglyph      tešlə.com     -
+homoglyph      teșlạ.com     -
+homoglyph      teșlə.com     -
+homoglyph      teșlȧ.com     -
+homoglyph      teșlɑ.com     -
+homoglyph      teʂlạ.com     -
+homoglyph      teṡlā.com     -
+homoglyph      teșlā.com     -
+homoglyph      teṣlā.com     -
+homoglyph      teꜱlā.com     -
+homoglyph      teślā.com     -
+homoglyph      teŝlā.com     -
+homoglyph      teşlā.com     -
+homoglyph      tešlā.com     -
+homoglyph      teʂlā.com     -
+homoglyph      teʂlà.com     -
+homoglyph      teślà.com     -
+homoglyph      teŝlà.com     -
+homoglyph      teşlà.com     -
+homoglyph      tešlà.com     -
+homoglyph      teṡlà.com     -
+homoglyph      teșlà.com     -
+homoglyph      teṣlà.com     -
+homoglyph      teꜱlà.com     -
+homoglyph      teṡlă.com     -
+homoglyph      teșlă.com     -
+homoglyph      teṣlă.com     -
+homoglyph      teꜱlă.com     -
+homoglyph      teślă.com     -
+homoglyph      teŝlă.com     -
+homoglyph      teşlă.com     -
+homoglyph      tešlă.com     -
+homoglyph      teʂlă.com     -
+homoglyph      teślǎ.com     -
+homoglyph      teślȧ.com     -
+homoglyph      teślɑ.com     -
+homoglyph      teślạ.com     -
+homoglyph      teślə.com     -
+homoglyph      teṣlə.com     -
+homoglyph      teꜱlə.com     -
+homoglyph      teṡlə.com     -
+homoglyph      teʂlə.com     -
+homoglyph      teślá.com     -
+homoglyph      teŝlá.com     -
+homoglyph      teşlá.com     -
+homoglyph      tešlá.com     -
+homoglyph      teṡlá.com     -
+homoglyph      teșlá.com     -
+homoglyph      teṣlá.com     -
+homoglyph      teꜱlá.com     -
+homoglyph      teʂlá.com     -
+homoglyph      teṡlạ.com     -
+homoglyph      teṡlɑ.com     -
+homoglyph      teṣlɑ.com     -
+homoglyph      teꜱlɑ.com     -
+homoglyph      teʂlɑ.com     -
+homoglyph      teʂlǎ.com     -
+homoglyph      teꜱlǎ.com     -
+homoglyph      teṡlǎ.com     -
+homoglyph      teșlǎ.com     -
+homoglyph      teṣlǎ.com     -
+homoglyph      teʂlâ.com     -
+homoglyph      teślâ.com     -
+homoglyph      teŝlâ.com     -
+homoglyph      teşlâ.com     -
+homoglyph      tešlâ.com     -
+homoglyph      teṡlâ.com     -
+homoglyph      teșlâ.com     -
+homoglyph      teṣlâ.com     -
+homoglyph      teꜱlâ.com     -
+homoglyph      teṣlą.com     -
+homoglyph      teꜱlą.com     -
+homoglyph      teślą.com     -
+homoglyph      teŝlą.com     -
+homoglyph      teşlą.com     -
+homoglyph      tešlą.com     -
+homoglyph      teṡlą.com     -
+homoglyph      teșlą.com     -
+homoglyph      teʂlą.com     -
+homoglyph      teŝlǎ.com     -
+homoglyph      teŝlȧ.com     -
+homoglyph      teŝlɑ.com     -
+homoglyph      teŝlạ.com     -
+homoglyph      teŝlə.com     -
+homoglyph      teślã.com     -
+homoglyph      teŝlã.com     -
+homoglyph      teşlã.com     -
+homoglyph      tešlã.com     -
+homoglyph      teṡlã.com     -
+homoglyph      teșlã.com     -
+homoglyph      teṣlã.com     -
+homoglyph      teꜱlã.com     -
+homoglyph      teʂlã.com     -
+homoglyph      teṡlȧ.com     -
+homoglyph      teṣlȧ.com     -
+homoglyph      teꜱlȧ.com     -
+homoglyph      teʂlȧ.com     -
+homoglyph      teṣlạ.com     -
+homoglyph      teʂlä.com     -
+homoglyph      teślä.com     -
+homoglyph      teŝlä.com     -
+homoglyph      teşlä.com     -
+homoglyph      tešlä.com     -
+homoglyph      teṡlä.com     -
+homoglyph      teșlä.com     -
+homoglyph      teṣlä.com     -
+homoglyph      teꜱlä.com     -
+homoglyph      teşlǎ.com     -
+homoglyph      teşlȧ.com     -
+homoglyph      teşlɑ.com     -
+homoglyph      teşlạ.com     -
+homoglyph      teşlə.com     -
+homoglyph      teꜱlạ.com     -
+homoglyph      teślå.com     -
+homoglyph      teŝlå.com     -
+homoglyph      teşlå.com     -
+homoglyph      tešlå.com     -
+homoglyph      teṡlå.com     -
+homoglyph      teșlå.com     -
+homoglyph      teṣlå.com     -
+homoglyph      teꜱlå.com     -
+homoglyph      teʂlå.com     -
+homoglyph      teṡla.com     -
+homoglyph      teşla.com     -
+homoglyph      teṣla.com     -
+homoglyph      tešla.com     15.197.148.33 NS:ns43.domaincontrol.com
+homoglyph      teꜱla.com     -
+homoglyph      teśla.com     -
+homoglyph      teʂla.com     -
+homoglyph      teșla.com     -
+homoglyph      teŝla.com     -
+homoglyph      tesľǎ.com     -
+homoglyph      tesľạ.com     -
+homoglyph      tesľə.com     -
+homoglyph      tesľȧ.com     -
+homoglyph      tesľɑ.com     -
+homoglyph      tesɫā.com     -
+homoglyph      tesļā.com     -
+homoglyph      tesľā.com     -
+homoglyph      tesłā.com     -
+homoglyph      tesĺā.com     -
+homoglyph      tesłà.com     -
+homoglyph      tesĺà.com     -
+homoglyph      tesļà.com     -
+homoglyph      tesľà.com     -
+homoglyph      tesɫà.com     -
+homoglyph      tesɫă.com     -
+homoglyph      tesľă.com     -
+homoglyph      tesłă.com     -
+homoglyph      tesĺă.com     -
+homoglyph      tesļă.com     -
+homoglyph      tesɫə.com     -
+homoglyph      tesɫá.com     -
+homoglyph      tesĺá.com     -
+homoglyph      tesļá.com     -
+homoglyph      tesľá.com     -
+homoglyph      tesłá.com     -
+homoglyph      tesɫạ.com     -
+homoglyph      tesɫɑ.com     -
+homoglyph      tesɫǎ.com     -
+homoglyph      tesłǎ.com     -
+homoglyph      tesłạ.com     -
+homoglyph      tesłə.com     -
+homoglyph      tesłȧ.com     -
+homoglyph      tesłɑ.com     -
+homoglyph      tesĺâ.com     -
+homoglyph      tesļâ.com     -
+homoglyph      tesľâ.com     -
+homoglyph      tesłâ.com     -
+homoglyph      tesɫâ.com     -
+homoglyph      tesɫą.com     -
+homoglyph      tesłą.com     -
+homoglyph      tesĺą.com     -
+homoglyph      tesļą.com     -
+homoglyph      tesľą.com     -
+homoglyph      tesĺǎ.com     -
+homoglyph      tesĺɑ.com     -
+homoglyph      tesĺạ.com     -
+homoglyph      tesĺə.com     -
+homoglyph      tesĺȧ.com     -
+homoglyph      tesɫã.com     -
+homoglyph      tesĺã.com     -
+homoglyph      tesļã.com     -
+homoglyph      tesľã.com     -
+homoglyph      tesłã.com     -
+homoglyph      tesɫȧ.com     -
+homoglyph      tesĺä.com     -
+homoglyph      tesļä.com     -
+homoglyph      tesľä.com     -
+homoglyph      tesłä.com     -
+homoglyph      tesɫä.com     -
+homoglyph      tesļǎ.com     -
+homoglyph      tesļạ.com     -
+homoglyph      tesļə.com     -
+homoglyph      tesļȧ.com     -
+homoglyph      tesļɑ.com     -
+homoglyph      tesɫå.com     -
+homoglyph      tesĺå.com     -
+homoglyph      tesļå.com     -
+homoglyph      tesľå.com     -
+homoglyph      tesłå.com     -
+homoglyph      tes1ǎ.com     -
+homoglyph      tes1à.com     -
+homoglyph      tes1ă.com     -
+homoglyph      tes1á.com     -
+homoglyph      tes1ạ.com     -
+homoglyph      tes1â.com     -
+homoglyph      tes1ą.com     -
+homoglyph      tes1ã.com     -
+homoglyph      tes1ä.com     -
+homoglyph      tes1ɑ.com     -
+homoglyph      tes1å.com     -
+homoglyph      tes1ā.com     -
+homoglyph      tes1ȧ.com     -
+homoglyph      tes1ə.com     -
+homoglyph      tesła.com     -
+homoglyph      tesɨa.com     -
+homoglyph      tesîa.com     -
+homoglyph      tesĭa.com     -
+homoglyph      tesļa.com     -
+homoglyph      tesɩa.com     -
+homoglyph      tesïa.com     -
+homoglyph      tesịa.com     -
+homoglyph      tesɪa.com     -
+homoglyph      tesǐa.com     -
+homoglyph      tesįa.com     -
+homoglyph      tesľa.com     -
+homoglyph      tesɫa.com     -
+homoglyph      tesĩa.com     -
+homoglyph      tesıa.com     -
+homoglyph      tesìa.com     -
+homoglyph      tesȋa.com     -
+homoglyph      tesīa.com     -
+homoglyph      tesĺa.com     -
+homoglyph      tesía.com     -
+homoglyph      tesỉa.com     -
+homoglyph      tesiǎ.com     -
+homoglyph      tesià.com     -
+homoglyph      tesiă.com     -
+homoglyph      tesiá.com     -
+homoglyph      tesiạ.com     -
+homoglyph      tesiâ.com     -
+homoglyph      tesią.com     -
+homoglyph      tesiã.com     -
+homoglyph      tesiä.com     -
+homoglyph      tesiɑ.com     -
+homoglyph      tesiå.com     -
+homoglyph      tesiā.com     -
+homoglyph      tesiȧ.com     -
+homoglyph      tesiə.com     -
+homoglyph      teslǎ.com     -
+homoglyph      teslà.com     -
+homoglyph      teslă.com     -
+homoglyph      teslá.com     NS:ns1.siteground.net
+homoglyph      teslạ.com     -
+homoglyph      teslâ.com     -
+homoglyph      teslą.com     -
+homoglyph      teslã.com     -
+homoglyph      teslä.com     -
+homoglyph      teslɑ.com     -
+homoglyph      teslå.com     -
+homoglyph      teslā.com     -
+homoglyph      teslȧ.com     -
+homoglyph      teslə.com     -
+homoglyph      těꜱla.com     -
+homoglyph      těśla.com     -
+homoglyph      těŝla.com     -
+homoglyph      těşla.com     -
+homoglyph      těšla.com     -
+homoglyph      těṡla.com     -
+homoglyph      těșla.com     -
+homoglyph      těṣla.com     -
+homoglyph      těʂla.com     -
+homoglyph      tȩšla.com     -
+homoglyph      tɇšla.com     -
+homoglyph      tẹšla.com     -
+homoglyph      tḛšla.com     -
+homoglyph      tẹșla.com     -
+homoglyph      tḛșla.com     -
+homoglyph      tȩșla.com     -
+homoglyph      tɇșla.com     -
+homoglyph      tẹʂla.com     -
+homoglyph      tḛʂla.com     -
+homoglyph      tēšla.com     -
+homoglyph      tēṡla.com     -
+homoglyph      tēșla.com     -
+homoglyph      tēṣla.com     -
+homoglyph      tēꜱla.com     -
+homoglyph      tēśla.com     -
+homoglyph      tēŝla.com     -
+homoglyph      tēşla.com     -
+homoglyph      tēʂla.com     -
+homoglyph      tèʂla.com     -
+homoglyph      tèşla.com     -
+homoglyph      tèšla.com     -
+homoglyph      tèṡla.com     -
+homoglyph      tèșla.com     -
+homoglyph      tèṣla.com     -
+homoglyph      tèꜱla.com     -
+homoglyph      tèśla.com     -
+homoglyph      tèŝla.com     -
+homoglyph      téşla.com     -
+homoglyph      téšla.com     -
+homoglyph      téṡla.com     -
+homoglyph      téșla.com     -
+homoglyph      téṣla.com     -
+homoglyph      téꜱla.com     -
+homoglyph      téśla.com     -
+homoglyph      téŝla.com     -
+homoglyph      téʂla.com     -
+homoglyph      tɇꜱla.com     -
+homoglyph      tɇṡla.com     -
+homoglyph      tɇṣla.com     -
+homoglyph      tɇʂla.com     -
+homoglyph      tĕṡla.com     -
+homoglyph      tĕșla.com     -
+homoglyph      tĕṣla.com     -
+homoglyph      tĕꜱla.com     -
+homoglyph      tĕśla.com     -
+homoglyph      tĕŝla.com     -
+homoglyph      tĕşla.com     -
+homoglyph      tĕšla.com     -
+homoglyph      tĕʂla.com     -
+homoglyph      tẹśla.com     -
+homoglyph      tḛśla.com     -
+homoglyph      tȩśla.com     -
+homoglyph      tɇśla.com     -
+homoglyph      têʂla.com     -
+homoglyph      têšla.com     -
+homoglyph      têṡla.com     -
+homoglyph      têșla.com     -
+homoglyph      têṣla.com     -
+homoglyph      têꜱla.com     -
+homoglyph      têśla.com     -
+homoglyph      têŝla.com     -
+homoglyph      têşla.com     -
+homoglyph      tḛꜱla.com     -
+homoglyph      tḛṡla.com     -
+homoglyph      tḛṣla.com     -
+homoglyph      tẹṡla.com     -
+homoglyph      tẹꜱla.com     -
+homoglyph      tëšla.com     -
+homoglyph      tëṡla.com     -
+homoglyph      tëșla.com     -
+homoglyph      tëṣla.com     -
+homoglyph      tëꜱla.com     -
+homoglyph      tëśla.com     -
+homoglyph      tëŝla.com     -
+homoglyph      tëşla.com     -
+homoglyph      tëʂla.com     -
+homoglyph      tėṡla.com     -
+homoglyph      tėșla.com     -
+homoglyph      tėṣla.com     -
+homoglyph      tėꜱla.com     -
+homoglyph      tėśla.com     -
+homoglyph      tėŝla.com     -
+homoglyph      tėşla.com     -
+homoglyph      tėšla.com     -
+homoglyph      tėʂla.com     -
+homoglyph      tḛŝla.com     -
+homoglyph      tȩŝla.com     -
+homoglyph      tɇŝla.com     -
+homoglyph      tẹŝla.com     -
+homoglyph      tẹṣla.com     -
+homoglyph      tęṣla.com     -
+homoglyph      tęꜱla.com     -
+homoglyph      tęśla.com     -
+homoglyph      tęŝla.com     -
+homoglyph      tęşla.com     -
+homoglyph      tęšla.com     -
+homoglyph      tęṡla.com     -
+homoglyph      tęșla.com     -
+homoglyph      tęʂla.com     -
+homoglyph      tȩşla.com     -
+homoglyph      tɇşla.com     -
+homoglyph      tẹşla.com     -
+homoglyph      tḛşla.com     -
+homoglyph      tȩṡla.com     -
+homoglyph      tȩṣla.com     -
+homoglyph      tȩꜱla.com     -
+homoglyph      tȩʂla.com     -
+homoglyph      tḛs1a.com     -
+homoglyph      tȩs1a.com     -
+homoglyph      tès1a.com     -
+homoglyph      tęs1a.com     -
+homoglyph      tɇs1a.com     -
+homoglyph      tés1a.com     -
+homoglyph      tēs1a.com     -
+homoglyph      tês1a.com     -
+homoglyph      těs1a.com     -
+homoglyph      tës1a.com     -
+homoglyph      tẹs1a.com     -
+homoglyph      tĕs1a.com     -
+homoglyph      tės1a.com     -
+homoglyph      těsĺa.com     -
+homoglyph      těsļa.com     -
+homoglyph      těsľa.com     -
+homoglyph      těsła.com     -
+homoglyph      těsɫa.com     -
+homoglyph      tɇsľa.com     -
+homoglyph      tẹsľa.com     -
+homoglyph      tḛsľa.com     -
+homoglyph      tȩsľa.com     -
+homoglyph      tēsĺa.com     -
+homoglyph      tēsļa.com     -
+homoglyph      tēsľa.com     -
+homoglyph      tēsła.com     -
+homoglyph      tēsɫa.com     -
+homoglyph      tèsɫa.com     -
+homoglyph      tèsĺa.com     -
+homoglyph      tèsļa.com     -
+homoglyph      tèsľa.com     -
+homoglyph      tèsła.com     -
+homoglyph      tésĺa.com     -
+homoglyph      tésļa.com     -
+homoglyph      tésľa.com     -
+homoglyph      tésła.com     -
+homoglyph      tésɫa.com     -
+homoglyph      tɇsɫa.com     -
+homoglyph      tĕsĺa.com     -
+homoglyph      tĕsļa.com     -
+homoglyph      tĕsľa.com     -
+homoglyph      tĕsła.com     -
+homoglyph      tĕsɫa.com     -
+homoglyph      têsɫa.com     -
+homoglyph      têsĺa.com     -
+homoglyph      têsļa.com     -
+homoglyph      têsľa.com     -
+homoglyph      têsła.com     -
+homoglyph      tẹsɫa.com     -
+homoglyph      tḛsɫa.com     -
+homoglyph      tɇsła.com     -
+homoglyph      tẹsła.com     -
+homoglyph      tḛsła.com     -
+homoglyph      tȩsła.com     -
+homoglyph      tësĺa.com     -
+homoglyph      tësļa.com     -
+homoglyph      tësľa.com     -
+homoglyph      tësła.com     -
+homoglyph      tësɫa.com     -
+homoglyph      tėsĺa.com     -
+homoglyph      tėsļa.com     -
+homoglyph      tėsľa.com     -
+homoglyph      tėsła.com     -
+homoglyph      tėsɫa.com     -
+homoglyph      tȩsĺa.com     -
+homoglyph      tɇsĺa.com     -
+homoglyph      tẹsĺa.com     -
+homoglyph      tḛsĺa.com     -
+homoglyph      tęsĺa.com     -
+homoglyph      tęsļa.com     -
+homoglyph      tęsľa.com     -
+homoglyph      tęsła.com     -
+homoglyph      tęsɫa.com     -
+homoglyph      tɇsļa.com     -
+homoglyph      tẹsļa.com     -
+homoglyph      tḛsļa.com     -
+homoglyph      tȩsļa.com     -
+homoglyph      tȩsɫa.com     -
+homoglyph      tḛsia.com     -
+homoglyph      tȩsia.com     -
+homoglyph      tèsia.com     -
+homoglyph      tęsia.com     -
+homoglyph      tɇsia.com     -
+homoglyph      tésia.com     -
+homoglyph      tēsia.com     -
+homoglyph      têsia.com     -
+homoglyph      těsia.com     -
+homoglyph      tësia.com     -
+homoglyph      tẹsia.com     -
+homoglyph      tĕsia.com     -
+homoglyph      tėsia.com     -
+homoglyph      těslǎ.com     -
+homoglyph      těslạ.com     -
+homoglyph      těslə.com     -
+homoglyph      těslȧ.com     -
+homoglyph      těslɑ.com     -
+homoglyph      tɇslā.com     -
+homoglyph      tẹslā.com     -
+homoglyph      tḛslā.com     -
+homoglyph      tȩslā.com     -
+homoglyph      tēslā.com     -
+homoglyph      tĕslā.com     -
+homoglyph      tėslā.com     -
+homoglyph      tęslā.com     -
+homoglyph      těslā.com     -
+homoglyph      tēslǎ.com     -
+homoglyph      tēslɑ.com     -
+homoglyph      tēslạ.com     -
+homoglyph      tēslə.com     -
+homoglyph      tēslȧ.com     -
+homoglyph      tèslȧ.com     -
+homoglyph      tèslɑ.com     -
+homoglyph      tèslạ.com     -
+homoglyph      tèslə.com     -
+homoglyph      tèslā.com     -
+homoglyph      tèslă.com     -
+homoglyph      tèslą.com     -
+homoglyph      tèslǎ.com     -
+homoglyph      téslǎ.com     -
+homoglyph      téslȧ.com     -
+homoglyph      téslɑ.com     -
+homoglyph      téslạ.com     -
+homoglyph      téslə.com     -
+homoglyph      téslā.com     -
+homoglyph      téslă.com     -
+homoglyph      téslą.com     -
+homoglyph      tɇslạ.com     -
+homoglyph      tɇslɑ.com     -
+homoglyph      tɇslə.com     -
+homoglyph      tèslà.com     -
+homoglyph      têslà.com     -
+homoglyph      těslà.com     -
+homoglyph      tɇslà.com     -
+homoglyph      tẹslà.com     -
+homoglyph      tḛslà.com     -
+homoglyph      tȩslà.com     -
+homoglyph      téslà.com     -
+homoglyph      tëslà.com     -
+homoglyph      tēslà.com     -
+homoglyph      tĕslà.com     -
+homoglyph      tėslà.com     -
+homoglyph      tęslà.com     -
+homoglyph      tɇslă.com     -
+homoglyph      tẹslă.com     -
+homoglyph      tḛslă.com     -
+homoglyph      tȩslă.com     -
+homoglyph      tēslă.com     -
+homoglyph      tĕslă.com     -
+homoglyph      tėslă.com     -
+homoglyph      tęslă.com     -
+homoglyph      těslă.com     -
+homoglyph      tĕslǎ.com     -
+homoglyph      tĕslạ.com     -
+homoglyph      tĕslə.com     -
+homoglyph      tĕslȧ.com     -
+homoglyph      tĕslɑ.com     -
+homoglyph      têslȧ.com     -
+homoglyph      têslɑ.com     -
+homoglyph      têslạ.com     -
+homoglyph      têslə.com     -
+homoglyph      têslā.com     -
+homoglyph      têslă.com     -
+homoglyph      têslą.com     -
+homoglyph      têslǎ.com     -
+homoglyph      tẹslə.com     -
+homoglyph      tḛslə.com     -
+homoglyph      těslá.com     -
+homoglyph      tɇslá.com     -
+homoglyph      tẹslá.com     -
+homoglyph      tḛslá.com     -
+homoglyph      tȩslá.com     -
+homoglyph      téslá.com     -
+homoglyph      tëslá.com     -
+homoglyph      tēslá.com     -
+homoglyph      tĕslá.com     -
+homoglyph      tėslá.com     -
+homoglyph      tęslá.com     -
+homoglyph      tèslá.com     -
+homoglyph      têslá.com     -
+homoglyph      tḛslạ.com     -
+homoglyph      tẹslɑ.com     -
+homoglyph      tḛslɑ.com     -
+homoglyph      tɇslǎ.com     -
+homoglyph      tẹslǎ.com     -
+homoglyph      tḛslǎ.com     -
+homoglyph      tȩslǎ.com     -
+homoglyph      tëslǎ.com     -
+homoglyph      tëslɑ.com     -
+homoglyph      tëslạ.com     -
+homoglyph      tëslə.com     -
+homoglyph      tëslȧ.com     -
+homoglyph      tëslā.com     -
+homoglyph      tëslă.com     -
+homoglyph      tëslą.com     -
+homoglyph      tèslâ.com     -
+homoglyph      têslâ.com     -
+homoglyph      tẹslâ.com     -
+homoglyph      tḛslâ.com     -
+homoglyph      tȩslâ.com     -
+homoglyph      tɇslâ.com     -
+homoglyph      téslâ.com     -
+homoglyph      tëslâ.com     -
+homoglyph      tēslâ.com     -
+homoglyph      tĕslâ.com     -
+homoglyph      tėslâ.com     -
+homoglyph      tęslâ.com     -
+homoglyph      těslâ.com     -
+homoglyph      tɇslą.com     -
+homoglyph      tẹslą.com     -
+homoglyph      tḛslą.com     -
+homoglyph      tȩslą.com     -
+homoglyph      tēslą.com     -
+homoglyph      tĕslą.com     -
+homoglyph      tėslą.com     -
+homoglyph      tęslą.com     -
+homoglyph      těslą.com     -
+homoglyph      tėslǎ.com     -
+homoglyph      tėslạ.com     -
+homoglyph      tėslə.com     -
+homoglyph      tėslȧ.com     -
+homoglyph      tėslɑ.com     -
+homoglyph      tẹslã.com     -
+homoglyph      tḛslã.com     -
+homoglyph      tȩslã.com     -
+homoglyph      tɇslã.com     -
+homoglyph      téslã.com     -
+homoglyph      tëslã.com     -
+homoglyph      tēslã.com     -
+homoglyph      tĕslã.com     -
+homoglyph      tėslã.com     -
+homoglyph      tęslã.com     -
+homoglyph      těslã.com     -
+homoglyph      têslã.com     -
+homoglyph      tèslã.com     -
+homoglyph      tẹslȧ.com     -
+homoglyph      tḛslȧ.com     -
+homoglyph      tɇslȧ.com     -
+homoglyph      tȩslȧ.com     -
+homoglyph      têslä.com     -
+homoglyph      tḛslä.com     -
+homoglyph      tȩslä.com     -
+homoglyph      tɇslä.com     -
+homoglyph      tẹslä.com     -
+homoglyph      tëslä.com     -
+homoglyph      tēslä.com     -
+homoglyph      tĕslä.com     -
+homoglyph      tėslä.com     -
+homoglyph      tęslä.com     -
+homoglyph      těslä.com     -
+homoglyph      tèslä.com     -
+homoglyph      téslä.com     -
+homoglyph      tęslǎ.com     -
+homoglyph      tęslạ.com     -
+homoglyph      tęslə.com     -
+homoglyph      tęslȧ.com     -
+homoglyph      tęslɑ.com     -
+homoglyph      tẹslạ.com     -
+homoglyph      tȩslạ.com     -
+homoglyph      tȩslɑ.com     -
+homoglyph      tȩslə.com     -
+homoglyph      tḛslå.com     -
+homoglyph      tȩslå.com     -
+homoglyph      tɇslå.com     -
+homoglyph      tẹslå.com     -
+homoglyph      tëslå.com     -
+homoglyph      tēslå.com     -
+homoglyph      tĕslå.com     -
+homoglyph      tėslå.com     -
+homoglyph      tęslå.com     -
+homoglyph      těslå.com     -
+homoglyph      tèslå.com     -
+homoglyph      téslå.com     -
+homoglyph      têslå.com     -
+homoglyph      tḛsla.com     -
+homoglyph      tƈsla.com     -
+homoglyph      tçsla.com     -
+homoglyph      tȩsla.com     -
+homoglyph      tᴄsla.com     -
+homoglyph      tèsla.com     -
+homoglyph      tċsla.com     -
+homoglyph      tęsla.com     -
+homoglyph      tɇsla.com     -
+homoglyph      tésla.com     NS:alec.ns.cloudflare.com
+homoglyph      tēsla.com     -
+homoglyph      têsla.com     -
+homoglyph      tčsla.com     -
+homoglyph      těsla.com     -
+homoglyph      tësla.com     -
+homoglyph      tćsla.com     -
+homoglyph      tẹsla.com     -
+homoglyph      tĕsla.com     -
+homoglyph      tĉsla.com     -
+homoglyph      tėsla.com     -
+hyphenation    tesl-a.com    102.218.215.117 NS:ns1.host-ww.net MX:tesl-a.com
+hyphenation    tes-la.com    34.211.79.181 NS:ns1.domaindiscover.com MX:mx1.daemonmail.net
+hyphenation    te-sla.com    74.208.236.203 2607:f1c0:100f:f000::200 NS:ns1045.ui-dns.biz MX:mx00.ionos.com
+hyphenation    t-esla.com    NS:carlane.ns.cloudflare.com
+insertion      gtesla.com    104.21.52.185 NS:andy.ns.cloudflare.com
+insertion      t3esla.com    -
+insertion      tdesla.com    -
+insertion      te3sla.com    -
+insertion      tersla.com    104.21.58.175 2606:4700:3032::6815:3aaf NS:felicity.ns.cloudflare.com MX:route1.mx.cloudflare.net
+insertion      teesla.com    104.247.81.99 NS:ns1.parkingcrew.net
+insertion      ftesla.com    13.248.243.5 NS:ns39.domaincontrol.com
+insertion      5tesla.com    216.198.79.1 NS:ns1.vercel-dns.com
+insertion      6tesla.com    -
+insertion      rtesla.com    52.44.244.98 2600:1f18:4ae:c607:d1d9:565f:b122:bfdb NS:expired1.namebrightdns.com MX:mail1.namebrightmail.com
+insertion      t4esla.com    -
+insertion      t5esla.com    -
+insertion      t6esla.com    -
+insertion      te4sla.com    -
+insertion      teasla.com    -
+insertion      tesela.com    103.224.182.246 NS:ns1.abovedomains.com MX:park-mx.above.com
+insertion      teslma.com    -
+insertion      tesloa.com    -
+insertion      tesola.com    13.56.33.8 NS:ns1.brandbucket.com
+insertion      tedsla.com    162.255.119.195 NS:dns1.registrar-servers.com MX:eforward1.registrar-servers.com
+insertion      teqsla.com    -
+insertion      tesala.com    69.49.235.229 NS:ns43.domaincontrol.com
+insertion      tesdla.com    -
+insertion      teskla.com    -
+insertion      teslka.com    -
+insertion      teslpa.com    -
+insertion      tesmla.com    -
+insertion      tespla.com    216.198.79.1
+insertion      tesqla.com    -
+insertion      tessla.com    -
+insertion      teswla.com    -
+insertion      tewsla.com    -
+insertion      texsla.com    -
+insertion      teysla.com    -
+insertion      tgesla.com    -
+insertion      twesla.com    103.224.182.252 NS:ns3.abovedomains.com MX:park-mx.above.com
+insertion      tresla.com    185.230.63.107 NS:ns01.domaincontrol.com MX:smtp.google.com
+insertion      ztesla.com    23.227.38.65 NS:dns1.registrar-servers.com MX:mx1.privateemail.com
+insertion      tesxla.com    23.231.75.124 NS:laura.ns.cloudflare.com
+insertion      tesyla.com    51.195.89.65 NS:ns1.dnsperfect.net MX:tesyla.com
+insertion      teszla.com    54.192.35.104 NS:ns-1116.awsdns-11.org
+insertion      tezsla.com    -
+insertion      tfesla.com    -
+insertion      tsesla.com    -
+insertion      tyesla.com    -
+insertion      tzesla.com    -
+insertion      ytesla.com    -
+omission       tela.com      104.26.8.140 2606:4700:964b:891:164:62c:1c6a:1cc NS:bill.ns.cloudflare.com MX:alt1.aspmx.l.google.com
+omission       tesl.com      13.248.169.48 NS:ns3.afternic.com MX:
+omission       tesa.com      188.94.26.111 NS:ns1.netnames.net MX:tesa-com.mail.protection.outlook.com
+omission       esla.com      217.76.130.61 NS:dns1.serv542447.servidoresdns.net MX:mx.serviciodecorreo.es
+omission       tsla.com      NS:edns69.ultradns.biz
+plural         tesesla.com   -
+repetition     teslla.com    13.248.169.48 NS:ns1.afternic.com MX:
+repetition     ttesla.com    -
+replacement    6esla.com     -
+replacement    trsla.com     103.224.212.201 NS:ns1.abovedomains.com MX:park-mx.above.com
+replacement    twsla.com     103.224.212.205 NS:ns1.abovedomains.com MX:park-mx.above.com
+replacement    fesla.com     104.143.9.210 NS:ns0.directnic.com
+replacement    tesly.com     104.198.14.52 NS:brit.ns.cloudflare.com MX:in1-smtp.messagingengine.com
+replacement    t3sla.com     13.248.169.48 NS:ns1.afternic.com MX:
+replacement    teala.com     13.248.169.48 NS:ns1.afternic.com MX:
+replacement    gesla.com     15.222.124.128 NS:ns1.power-dns.com MX:mx1.ewebdevelopment.com
+replacement    t4sla.com     -
+replacement    tedla.com     50.240.51.153 NS:ns25.worldnic.com MX:mail.tedla.com
+replacement    tesl1.com     -
+replacement    tesl2.com     -
+replacement    tesls.com     -
+replacement    teslw.com     -
+replacement    teyla.com     104.21.51.133 2606:4700:3031::6815:3385 NS:isla.ns.cloudflare.com
+replacement    tespa.com     13.248.169.48 NS:ns1.namefind.com
+replacement    zesla.com     13.248.169.48 NS:ns1.afternic.com MX:
+replacement    yesla.com     15.197.148.33 NS:ns41.domaincontrol.com
+replacement    texla.com     157.230.161.221 NS:ns1.fabulous.com
+replacement    tssla.com     198.185.159.144 NS:ns23.worldnic.com MX:tssla-com.mail.eo.outlook.com
+replacement    resla.com     216.24.57.1 NS:ns1.namebrightdns.com MX:alt1.aspmx.l.google.com
+replacement    5esla.com     72.29.64.251 NS:ns2094.dizinc.com MX:mail.5esla.com
+replacement    tezla.com     81.95.105.80 2a02:4a8:ac24:137::105:80 NS:ns1.loopia.se MX:mail2.loopia.se
+replacement    tesoa.com     86.105.245.69 NS:ns1.eftydns.com
+replacement    teska.com     89.252.130.35 NS:gns1.gnscreative.com MX:teska.com
+replacement    teela.com     NS:dns1.registrar-servers.com
+replacement    teslz.com     NS:dns1.registrar-servers.com
+replacement    tzsla.com     -
+subdomain      t.esla.com    217.76.130.61
+subdomain      te.sla.com    -
+subdomain      tes.la.com    -
+transposition  etsla.com     -
+transposition  tsela.com     164.160.91.23 NS:ns3.za-dns.com MX:mail.tsela.com
+transposition  tesal.com     217.160.0.233 2001:8d8:100f:f000::2e1 NS:ns63.1and1.es MX:mx00.1and1.es
+transposition  telsa.com     NS:ns1.genetsisdns.net MX:telsa-com.b-v1.mx.microsoft
+various        teslacom.com  64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+vowel-swap     teslo.com     104.37.39.71 NS:ns01.no.brand.one.com MX:mx1.mailpod1-osl1.g1i.uniweb.no
+vowel-swap     teslu.com     13.248.169.48 NS:ns3.afternic.com MX:
+vowel-swap     tosla.com     217.169.196.63 NS:ns1.akbank.com.tr MX:mail01.akbank.com
+vowel-swap     tisla.com     64.190.63.222 NS:ns1.sedoparking.com MX:localhost
+
+[+] Running checkdmarc for email security...
+{
+  "domain": "tesla.com",
+  "base_domain": "tesla.com",
+  "dnssec": false,
+  "soa": {
+    "record": "edns69.ultradns.com. domain.teslamotors.com. 2016025267 1800 86400 86400 86400",
+    "values": {
+      "primary_nameserver": "edns69.ultradns.com",
+      "rname_email_address": "domain@teslamotors.com",
+      "serial": 2016025267,
+      "refresh": 1800,
+      "retry": 86400,
+      "expire": 86400,
+      "minimum": 86400
+    }
+  },
+  "ns": {
+    "hostnames": [
+      "a7-66.akam.net",
+      "a1-12.akam.net",
+      "edns69.ultradns.com",
+      "a12-64.akam.net",
+      "a10-67.akam.net",
+      "a9-67.akam.net",
+      "a28-65.akam.net"
+    ],
+    "warnings": []
+  },
+  "mx": {
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "tesla-com.mail.protection.outlook.com",
+        "addresses": [],
+        "dnssec": false,
+        "tls": false,
+        "starttls": false
+      }
+    ],
+    "warnings": [
+      "The resolution lifetime expired after 4.200 seconds: Server Do53:2405:201:400e:f00e::c0a8:1d01@53 answered The DNS operation timed out.; Server Do53:192.168.29.1@53 answered The DNS operation timed out.; Server Do53:2405:201:400e:f00e::c0a8:1d01@53 answered The DNS operation timed out.; Server Do53:192.168.29.1@53 answered The DNS operation timed out.",
+      "tesla-com.mail.protection.outlook.com: Connection timed out"
+    ]
+  },
+  "mta_sts": {
+    "valid": false,
+    "error": "An MTA-STS DNS record does not exist."
+  },
+  "spf": {
+    "record": "v=spf1 ip4:54.240.84.225/32 ip4:54.240.84.226/31 ip4:54.240.84.228/30 ip4:54.240.84.232/29 ip4:54.240.84.240/29 ip4:54.240.84.248/30 ip4:54.240.84.252/32 ip4:44.239.249.139 ip4:52.24.70.112 ip4:34.223.204.78 ip4:213.244.145.203 ip4:213.244.145.219 ip4:213.244.145.204 ip4:213.244.145.220 ip4:8.47.24.203 ip4:8.47.24.219 ip4:8.47.24.204 ip4:8.47.24.220 ip4:8.45.124.203 ip4:8.45.124.219 ip4:8.45.124.204 ip4:8.45.124.220 ip4:8.21.14.203 ip4:8.21.14.219 ip4:8.21.14.204 ip4:8.21.14.220 ip4:8.21.14.194 ip4:8.21.14.211 ip4:212.49.145.0/24 ip4:91.103.52.0/22 ip4:168.245.123.10 ip4:216.81.144.165 ip4:149.72.247.52 ip4:149.72.134.64 ip4:149.72.152.236 ip4:149.72.163.58 ip4:149.72.172.170 ip4:167.89.90.62 ip4:158.228.129.79 ip4:216.81.144.165 ip4:117.50.14.178 ip4:117.50.35.199 ip4:54.240.42.110 ip4:54.240.42.111 ip4:199.71.239.178 ip4:67.216.183.10 ip4:8.43.178.222 ip4:64.95.144.196 ip4:199.71.239.52 include:u13494342.wl093.sendgrid.net include:spf.protection.outlook.com include:mail.zendesk.com include:_spfsn.teslamotors.com include:_spf.qualtrics.com include:_spf.ultipro.com include:_spf.psm.knowbe4.com include:spf1.sendcloud.org include:spf2.sendcloud.org -all",
+    "valid": true,
+    "dns_lookups": 9,
+    "void_dns_lookups": 0,
+    "warnings": [
+      "The SPF record for tesla.com is > 512 bytes (1169 bytes). This likely exceeds the reliable UDP response size; some verifiers may ignore or fail it (RFC 7208 § 3.4)."
+    ],
+    "parsed": {
+      "mechanisms": [
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.225/32"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.226/31"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.228/30"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.232/29"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.240/29"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.248/30"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.84.252/32"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "44.239.249.139"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "52.24.70.112"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "34.223.204.78"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "213.244.145.203"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "213.244.145.219"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "213.244.145.204"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "213.244.145.220"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.47.24.203"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.47.24.219"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.47.24.204"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.47.24.220"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.45.124.203"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.45.124.219"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.45.124.204"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.45.124.220"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.203"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.219"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.204"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.220"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.194"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.21.14.211"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "212.49.145.0/24"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "91.103.52.0/22"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "168.245.123.10"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "216.81.144.165"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "149.72.247.52"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "149.72.134.64"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "149.72.152.236"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "149.72.163.58"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "149.72.172.170"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "167.89.90.62"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "158.228.129.79"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "216.81.144.165"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "117.50.14.178"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "117.50.35.199"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.42.110"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "54.240.42.111"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "199.71.239.178"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "67.216.183.10"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "8.43.178.222"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "64.95.144.196"
+        },
+        {
+          "action": "pass",
+          "mechanism": "ip4",
+          "value": "199.71.239.52"
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "u13494342.wl093.sendgrid.net",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:149.72.134.64 ip4:149.72.144.42 ip4:149.72.152.236 ip4:149.72.163.58 ip4:149.72.172.170 ip4:149.72.247.52 ip4:149.72.69.189 ip4:168.245.123.10 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.134.64"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.144.42"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.152.236"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.163.58"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.172.170"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.247.52"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.72.69.189"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "168.245.123.10"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "spf.protection.outlook.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:40.92.0.0/15 ip4:40.107.0.0/16 ip4:52.100.0.0/15 ip4:52.102.0.0/16 ip4:52.103.0.0/17 ip4:104.47.0.0/17 ip6:2a01:111:f400::/48 ip6:2a01:111:f403::/49 ip6:2a01:111:f403:8000::/51 ip6:2a01:111:f403:c000::/51 ip6:2a01:111:f403:f000::/52 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "40.92.0.0/15"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "40.107.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.100.0.0/15"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.102.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.103.0.0/17"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "104.47.0.0/17"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip6",
+                "value": "2a01:111:f400::/48"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip6",
+                "value": "2a01:111:f403::/49"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip6",
+                "value": "2a01:111:f403:8000::/51"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip6",
+                "value": "2a01:111:f403:c000::/51"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip6",
+                "value": "2a01:111:f403:f000::/52"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "mail.zendesk.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:103.151.192.0/23 ip4:185.12.80.0/22 ip4:188.172.128.0/20 ip4:192.161.144.0/20 ip4:216.198.0.0/18 ~all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "103.151.192.0/23"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "185.12.80.0/22"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "188.172.128.0/20"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "192.161.144.0/20"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "216.198.0.0/18"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "softfail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "_spfsn.teslamotors.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:209.11.133.119 ip4:52.89.186.19 ip4:209.11.133.120 ip4:209.11.133.121 ip4:37.98.232.12 ip4:37.98.232.26 ip4:37.98.234.26 ip4:37.98.235.26 ip4:103.23.64.26 ip4:103.23.65.26 ip4:103.23.66.26 ip4:103.23.67.26 ip4:149.96.1.26 ip4:149.96.2.26 ip4:199.91.136.2 ip4:199.91.136.26 ip4:199.91.137.26 ip4:199.91.138.26 ip4:199.91.139.26 ip4:199.91.140.26 ip4:199.91.140.40/31 ip4:199.91.141.2 ip4:199.91.142.26 ip4:199.91.143.26 ip4:207.211.35.128/25 ip4:66.180.12.212 ip4:66.180.12.215 ip4:66.180.12.217 ip4:205.234.27.238 ip4:199.16.139.0/24 ip4:206.108.40.0/21 ip4:149.96.231.186 ip4:149.96.247.186 ip4:148.163.155.1 ip4:148.163.151.57 ip4:209.11.133.122 ip4:13.111.88.1 ip4:13.111.88.2 ip4:13.111.88.52 ip4:13.111.88.53 ip4:13.111.62.118 ip4:94.103.153.130 ip4:82.199.68.176/28 ip4:95.172.66.176/28 ip4:51.163.163.128/25 ip4:8.21.14.0/24 ~all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "209.11.133.119"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.89.186.19"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "209.11.133.120"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "209.11.133.121"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "37.98.232.12"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "37.98.232.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "37.98.234.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "37.98.235.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "103.23.64.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "103.23.65.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "103.23.66.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "103.23.67.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.96.1.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.96.2.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.136.2"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.136.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.137.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.138.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.139.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.140.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.140.40/31"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.141.2"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.142.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.91.143.26"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "207.211.35.128/25"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "66.180.12.212"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "66.180.12.215"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "66.180.12.217"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "205.234.27.238"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "199.16.139.0/24"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "206.108.40.0/21"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.96.231.186"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "149.96.247.186"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "148.163.155.1"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "148.163.151.57"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "209.11.133.122"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "13.111.88.1"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "13.111.88.2"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "13.111.88.52"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "13.111.88.53"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "13.111.62.118"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "94.103.153.130"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "82.199.68.176/28"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "95.172.66.176/28"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "51.163.163.128/25"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "8.21.14.0/24"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "softfail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "_spf.qualtrics.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:162.247.216.0/22 ip4:139.60.152.0/22 ip4:98.97.248.0/21 ip4:64.69.212.0/24 ip4:54.186.193.102/32 ip4:52.222.73.120/32 ip4:52.222.73.83 ip4:52.222.62.51 ip4:52.222.75.85 ip4:52.222.89.228 ip4:160.1.62.192 ip4:52.61.91.9 ip4:15.200.21.50 ip4:15.200.201.185 ip4:15.200.44.248 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "162.247.216.0/22"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "139.60.152.0/22"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "98.97.248.0/21"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "64.69.212.0/24"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "54.186.193.102/32"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.222.73.120/32"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.222.73.83"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.222.62.51"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.222.75.85"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.222.89.228"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "160.1.62.192"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.61.91.9"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "15.200.21.50"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "15.200.201.185"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "15.200.44.248"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "_spf.ultipro.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:208.86.168.7 ip4:135.84.68.123 ip4:206.152.14.54 ip4:135.84.79.54 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "208.86.168.7"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "135.84.68.123"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "206.152.14.54"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "135.84.79.54"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "_spf.psm.knowbe4.com",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:23.21.109.197 ip4:23.21.109.212 ip4:147.160.167.14 ip4:147.160.167.15 ip4:52.49.235.189 ip4:52.49.201.246 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "23.21.109.197"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "23.21.109.212"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "147.160.167.14"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "147.160.167.15"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.49.235.189"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "52.49.201.246"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "spf1.sendcloud.org",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:101.44.172.0/24 ip4:188.239.31.0/24 ip4:106.75.0.0/16 ip4:107.150.0.0/16 ip4:117.50.0.0/16 ip4:120.132.0.0/16 ip4:45.43.0.0/16 ip4:128.1.61.195 ip4:119.3.230.243 ip4:113.44.175.33 ip4:113.44.157.80 ip4:165.154.147.124 ip4:152.32.219.151 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "101.44.172.0/24"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "188.239.31.0/24"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "106.75.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "107.150.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "117.50.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "120.132.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "45.43.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "128.1.61.195"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "119.3.230.243"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "113.44.175.33"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "113.44.157.80"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "165.154.147.124"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "152.32.219.151"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        },
+        {
+          "action": "pass",
+          "mechanism": "include",
+          "value": "spf2.sendcloud.org",
+          "dns_lookups": 1,
+          "void_dns_lookups": 0,
+          "record": "v=spf1 ip4:161.117.0.0/16 ip4:47.241.0.0/16 ip4:47.251.0.0/16 ip4:47.254.0.0/16 ip4:47.74.0.0/16 ip4:47.88.0.0/16 ip4:47.89.0.0/16 ip4:47.91.0.0/16 ip4:8.214.0.0/16 ip4:8.219.0.0/16 ip4:47.245.64.0/18 ip4:198.11.0.0/16 ip4:8.222.0.0/16 -all",
+          "parsed": {
+            "mechanisms": [
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "161.117.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.241.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.251.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.254.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.74.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.88.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.89.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.91.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "8.214.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "8.219.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "47.245.64.0/18"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "198.11.0.0/16"
+              },
+              {
+                "action": "pass",
+                "mechanism": "ip4",
+                "value": "8.222.0.0/16"
+              }
+            ],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
+        }
+      ],
+      "redirect": null,
+      "exp": null,
+      "all": "fail"
+    }
+  },
+  "dmarc": {
+    "record": "v=DMARC1; p=reject; pct=100; rua=mailto:n2ju30bc@ag.dmarcian.com; ruf=mailto:n2ju30bc@fr.dmarcian.com; fo=1",
+    "location": "tesla.com",
+    "valid": true,
+    "warnings": [
+      "Support for the pct tag was removed in RFC 9989"
+    ],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "reject",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "n2ju30bc@ag.dmarcian.com",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "ruf": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "n2ju30bc@fr.dmarcian.com",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "fo": {
+        "value": "1",
+        "explicit": true
+      },
+      "adkim": {
+        "value": "r",
+        "explicit": false
+      },
+      "aspf": {
+        "value": "r",
+        "explicit": false
+      },
+      "psd": {
+        "value": "u",
+        "explicit": false
+      },
+      "t": {
+        "value": "n",
+        "explicit": false
+      },
+      "sp": {
+        "value": "reject",
+        "explicit": false
+      },
+      "np": {
+        "value": "reject",
+        "explicit": false
+      }
+    }
+  },
+  "smtp_tls_reporting": {
+    "valid": false,
+    "error": "An SMTP TLS Reporting record does not exist."
+  },
+  "bimi": {
+    "record": "v=BIMI1; l=https://vmc.digicert.com/ffc29df2-c2a7-4638-9742-b59013a32da5.svg; a=https://vmc.digicert.com/ffc29df2-c2a7-4638-9742-b59013a32da5.pem",
+    "valid": true,
+    "selector": "default",
+    "location": "tesla.com",
+    "tags": {
+      "v": {
+        "value": "BIMI1"
+      },
+      "l": {
+        "value": "https://vmc.digicert.com/ffc29df2-c2a7-4638-9742-b59013a32da5.svg"
+      },
+      "a": {
+        "value": "https://vmc.digicert.com/ffc29df2-c2a7-4638-9742-b59013a32da5.pem"
+      }
+    },
+    "image": {
+      "svg_version": "1.2",
+      "base_profile": "tiny-ps",
+      "title": "Tesla",
+      "width": 612.0,
+      "height": 612.0,
+      "filesize": "0.826 KB",
+      "sha256": "3db29c40bf0a21f4d5908e6618faf9fff35e07b35eda7f7c485980b1ff673ece"
+    },
+    "certificate": {
+      "issuer": {
+        "countryName": "US",
+        "organizationName": "DigiCert, Inc.",
+        "commonName": "DigiCert Verified Mark RSA4096 SHA256 2021 CA1"
+      },
+      "subject": {
+        "jurisdictionOfIncorporationCountryName": "US",
+        "jurisdictionOfIncorporationStateOrProvinceName": "Texas",
+        "businessCategory": "Private Organization",
+        "serialNumber": "805587591",
+        "countryName": "US",
+        "stateOrProvinceName": "California",
+        "localityName": "Palo Alto",
+        "streetAddress": "3500 Deer Creek Road",
+        "organizationName": "Tesla, Inc.",
+        "commonName": "Tesla, Inc.",
+        "markType": "Registered Mark",
+        "trademarkCountryOrRegionName": "US",
+        "trademarkIdentifier": "7552824"
+      },
+      "serial_number": 9584264802674988046837088077949861932,
+      "not_valid_before": "2026-05-12 00:00:00Z",
+      "not_valid_after": "2027-05-15 23:59:59Z",
+      "expired": false,
+      "valid": false,
+      "domains": "api-firebolt.tesla.com",
+      "logotype_sha256": "3db29c40bf0a21f4d5908e6618faf9fff35e07b35eda7f7c485980b1ff673ece",
+      "warnings": [],
+      "validation_errors": [
+        "tesla.com does not match the certificate domain: api-firebolt.tesla.com"
+      ]
+    },
+    "warnings": [
+      "Most email providers will not display a BIMI image without a valid mark certificate."
+    ]
+  }
+}
+
+[+] Running nuclei on live subdomains...

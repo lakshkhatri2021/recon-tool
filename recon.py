@@ -6,14 +6,14 @@ usage: python3 recon.py <domain> [-o output_file]
 
 import subprocess  # lets python run terminal commands
 import sys         # lets us read command line arguments
-import os          # not used anymore but kept for compatibility
+import os          # used to build the path to the wordlist file
 import re          # regex — used to strip colour codes from output
 import argparse    # handles command line arguments cleanly
 import shutil      # used to check if tools are installed
 from datetime import datetime  # for timestamps
 
 # list of tools that need to be installed before the script runs
-REQUIRED_BINS = ["subfinder", "httpx", "naabu", "tlsx", "nuclei"]
+REQUIRED_BINS = ["subfinder", "httpx", "naabu", "tlsx", "nuclei", "ffuf"]
 
 # ── port risk catalog ───────────────────────────────────────────────────────
 # maps a port number to (service name, risk level, note explaining why it matters)
@@ -47,6 +47,9 @@ PORT_RISK_CATALOG = {
 
 # order used to sort findings so the scariest stuff shows up first
 RISK_ORDER = {"HIGH": 0, "MEDIUM": 1, "LOW": 2, "UNKNOWN": 3}
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+WORDLIST_PATH = os.path.join(SCRIPT_DIR, "wordlists", "common.txt")
 
 
 def check_deps():
@@ -96,7 +99,7 @@ def log(text, f):
 # ── each function below is one stage of the recon ──────────────────
 
 def run_subfinder(domain, f):
-    section("1/7  subfinder — passive subdomain enumeration", f)
+    section("1/8  subfinder — passive subdomain enumeration", f)
     out, err = run(f"subfinder -d {domain} -silent")
     if err:
         log(f"[!] subfinder error: {err}", f)
@@ -106,7 +109,7 @@ def run_subfinder(domain, f):
 
 
 def run_httpx(domain, subdomains, f):
-    section("2/7  httpx — live host probing", f)
+    section("2/8  httpx — live host probing", f)
     all_hosts = [domain] + subdomains
     out, err = run("httpx -silent", stdin_data="\n".join(all_hosts))
     if err:
@@ -118,7 +121,7 @@ def run_httpx(domain, subdomains, f):
 
 def run_naabu(domain, subdomains, f):
     # naabu scans for open ports across the root domain + all subdomains
-    section("3/7  naabu — port scanning + risk classification", f)
+    section("3/8  naabu — port scanning + risk classification", f)
     all_hosts = "\n".join([domain] + subdomains)
     out, err = run("naabu -silent", stdin_data=all_hosts)
     if err:
@@ -173,7 +176,7 @@ def run_naabu(domain, subdomains, f):
 
 
 def run_tlsx(domain, f):
-    section("4/7  tlsx — TLS certificate inspection", f)
+    section("4/8  tlsx — TLS certificate inspection", f)
     out, err = run(f"tlsx -u {domain} -silent")
     if err:
         log(f"[!] tlsx error: {err}", f)
@@ -181,7 +184,7 @@ def run_tlsx(domain, f):
 
 
 def run_dnstwist(domain, f):
-    section("5/7  dnstwist — typosquatting detection", f)
+    section("5/8  dnstwist — typosquatting detection", f)
     out, err = run(f"dnstwist {domain}")
     if err:
         log(f"[!] dnstwist error: {err}", f)
@@ -189,7 +192,7 @@ def run_dnstwist(domain, f):
 
 
 def run_checkdmarc(domain, f):
-    section("6/7  checkdmarc — DMARC / SPF / DKIM", f)
+    section("6/8  checkdmarc — DMARC / SPF / DKIM", f)
     out, err = run(f"checkdmarc {domain}")
     if err:
         log(f"[!] checkdmarc error: {err}", f)
@@ -197,7 +200,7 @@ def run_checkdmarc(domain, f):
 
 
 def run_nuclei(live_hosts, f):
-    section("7/7  nuclei — vulnerability template scanning", f)
+    section("7/8  nuclei — vulnerability template scanning", f)
     if not live_hosts:
         log("Skipped — no live hosts to scan.", f)
         return
@@ -205,6 +208,40 @@ def run_nuclei(live_hosts, f):
     if err:
         log(f"[!] nuclei error: {err}", f)
     log(out or "(no findings)", f)
+
+def run_ffuf(live_hosts, f):
+    section("8/8  ffuf — directory & file brute-forcing", f)
+
+    if not live_hosts:
+        log("Skipped — no live hosts to scan.", f)
+        return
+
+    if not os.path.exists(WORDLIST_PATH):
+        log(f"[!] wordlist not found at {WORDLIST_PATH}", f)
+        return
+
+    any_findings = False
+
+    for host in live_hosts:
+        log(f"\n  Target: {host}", f)
+        cmd = (
+            f"ffuf -u {host}/FUZZ -w {WORDLIST_PATH} "
+            f"-mc 200,204,301,302,307,401,403 -t 40 -s"
+        )
+        out, err = run(cmd, timeout=180)
+        if err:
+            log(f"  [!] ffuf error: {err}", f)
+            continue
+
+        if out:
+            any_findings = True
+            log(out, f)
+        else:
+            log("  (nothing found)", f)
+
+    if any_findings:
+        log("\n  ⚠ ffuf found accessible paths above — review each manually,"
+            " some may expose sensitive files or admin interfaces", f)
 
 
 def main():
@@ -236,6 +273,7 @@ def main():
         run_dnstwist(domain, f)
         run_checkdmarc(domain, f)
         run_nuclei(live_hosts, f)
+        run_ffuf(live_hosts, f)
 
         elapsed = int((datetime.now() - start).total_seconds())
         bar = "=" * 60
